@@ -10429,9 +10429,40 @@
   },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
-      "killed_evoker": "2025-05-25 06:16:31 +0000"
+      "killed_evoker": "2025-05-25 06:16:31 +0000",
+      "killed_illusioner": "2025-05-26 23:25:14 +0000"
     },
     "done": false
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_1": "2025-05-26 23:26:10 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-26 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-05-26 23:26:08 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-05-26 23:25:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-26 23:26:23 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
