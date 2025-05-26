@@ -10580,3 +10580,40 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26May2025 23:44:47.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26May2025 23:44:47.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26May2025 23:46:18.231] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Miner'/23937, l='ServerLevel[world]', x=-297.28, y=65.00, z=1160.54] died, message: 'Miner froze to death'
+[26May2025 23:46:24.342] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[26May2025 23:46:24.347] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[26May2025 23:46:24.347] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[26May2025 23:46:24.348] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[26May2025 23:46:24.348] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[26May2025 23:46:24.349] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[26May2025 23:46:24.349] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[26May2025 23:46:24.350] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[26May2025 23:46:24.350] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[26May2025 23:46:24.350] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[26May2025 23:46:52.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_01
+[26May2025 23:48:11.819] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[26May2025 23:48:11.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/downstairs_pool/haunted_house_downstairs
+[26May2025 23:48:35.898] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[26May2025 23:49:33.710] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[26May2025 23:49:47.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 23:49:47.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 23:49:55.374] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[26May2025 23:49:55.375] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 84
+}
+[26May2025 23:49:55.375] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[26May2025 23:49:55.375] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "=%wm'A336+#A{F?%"
+]
+[26May2025 23:52:40.776] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/33784, l='ServerLevel[world]', x=200.81, y=-256.00, z=180.26] died, message: 'Unemployed was killed'
+[26May2025 23:53:33.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC has made the advancement [Suit Up]
+[26May2025 23:53:36.931] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/34243, l='ServerLevel[world]', x=211.53, y=-256.00, z=539.06] died, message: 'Unemployed was killed'
+[26May2025 23:53:58.626] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/34361, l='ServerLevel[world]', x=463.22, y=-256.00, z=819.53] died, message: 'Unemployed was killed'
+[26May2025 23:54:06.626] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/34390, l='ServerLevel[world]', x=463.22, y=-256.00, z=819.53] died, message: 'Unemployed was killed'
+[26May2025 23:54:07.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Nightmare Stalker
+[26May2025 23:54:10.350] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748303650350
+[26May2025 23:54:35.582] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/23986, l='ServerLevel[world]', x=-289.86, y=68.00, z=1171.02] died, message: 'Nitwit hit the ground too hard whilst trying to escape Sniper'
+[26May2025 23:54:47.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 23:54:47.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-05-26 23:50:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_toilet": {
     "criteria": {
       "has_oak_planks": "2025-05-26 23:29:30 +0000"
@@ -185,6 +191,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-05-26 23:50:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-05-26 23:10:14 +0000"
@@ -218,6 +230,12 @@
   "backpacked:recipes/decorations/oak_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-05-26 23:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-05-26 23:53:30 +0000"
     },
     "done": true
   },
@@ -707,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-26 23:50:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-05-26 23:10:14 +0000"
@@ -989,6 +1013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-26 23:50:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-05-26 23:26:35 +0000"
@@ -1019,6 +1049,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-05-26 23:53:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_stool": {
     "criteria": {
       "has_planks": "2025-05-26 23:10:14 +0000"
@@ -1034,6 +1070,12 @@
   "refurbished_furniture:recipes/misc/constructing/orange_stool": {
     "criteria": {
       "has_planks": "2025-05-26 23:10:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2025-05-26 23:53:33 +0000"
     },
     "done": true
   },
@@ -1094,6 +1136,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-05-26 23:24:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-05-26 23:53:30 +0000"
     },
     "done": true
   },
@@ -1583,6 +1631,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-26 23:50:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2025-05-26 23:10:14 +0000"
@@ -1865,12 +1919,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2025-05-26 23:53:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-05-26 23:22:22 +0000",
+      "minecraft:sparse_jungle": "2025-05-26 23:49:27 +0000",
       "minecraft:river": "2025-05-26 23:26:49 +0000",
       "minecraft:forest": "2025-05-26 23:05:33 +0000",
-      "minecraft:old_growth_birch_forest": "2025-05-26 23:28:11 +0000"
+      "minecraft:jungle": "2025-05-26 23:49:52 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-26 23:28:11 +0000",
+      "minecraft:plains": "2025-05-26 23:48:06 +0000"
     },
     "done": false
   },

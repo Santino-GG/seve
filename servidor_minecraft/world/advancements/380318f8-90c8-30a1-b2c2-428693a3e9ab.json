@@ -1849,6 +1849,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "glow_berries": "2025-05-25 00:32:56 +0000",
+      "sweet_berries": "2025-05-26 23:48:21 +0000",
       "wheat": "2025-05-06 00:43:17 +0000"
     },
     "done": false
