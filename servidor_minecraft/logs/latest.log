@@ -2491,3 +2491,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26May2025 22:39:23.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 died from dehydration
 [26May2025 22:41:17.469] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
 [26May2025 22:43:14.777] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1658, l='ServerLevel[world]', x=200.81, y=-256.00, z=180.26] died, message: 'Unemployed was killed'
+[26May2025 22:43:27.540] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[26May2025 22:45:37.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 fell off some vines
+[26May2025 22:48:27.114] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[26May2025 22:48:27.119] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 113
+}
+[26May2025 22:48:27.119] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[26May2025 22:48:27.129] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "~ii89/T[_b[Sov'320A4~an"
+]
+[26May2025 22:53:45.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 fell off some vines
