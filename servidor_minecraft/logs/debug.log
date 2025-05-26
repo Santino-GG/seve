@@ -10542,3 +10542,41 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "<partial numeric data>",
   "[65, 47, 40, 45, 17, -93, 117, 108, -39, 57, -58]"
 ]
+[26May2025 23:36:55.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [I was here, i lived, i..]
+[26May2025 23:36:55.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has completed the challenge [The Magicians]
+[26May2025 23:37:31.777] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/25177, l='ServerLevel[world]', x=200.81, y=-256.00, z=180.26] died, message: 'Unemployed was killed'
+[26May2025 23:38:30.898] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/24217, l='ServerLevel[world]', x=-298.50, y=72.56, z=1067.50] died, message: 'Farmer was slain by Vindicator'
+[26May2025 23:38:31.752] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/24215, l='ServerLevel[world]', x=-299.07, y=72.56, z=1065.33] died, message: 'Farmer was slain by Vex'
+[26May2025 23:38:38.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/24216, l='ServerLevel[world]', x=-298.89, y=72.56, z=1065.73] died, message: 'Farmer was slain by Vex'
+[26May2025 23:38:44.047] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[26May2025 23:38:45.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was doomed to fall by Hollow Soldier
+[26May2025 23:38:47.402] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748302727377
+[26May2025 23:39:03.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC was blown up by Faller
+[26May2025 23:39:19.195] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748302759177
+[26May2025 23:39:47.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 23:39:47.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 23:40:28.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> hay un putyclub en nuestra base
+[26May2025 23:40:39.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> VAMOOOOOS
+[26May2025 23:40:39.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> ya voy
+[26May2025 23:40:43.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> les recomiendo no venir
+[26May2025 23:40:45.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> DONSW ESTAN
+[26May2025 23:40:52.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> hay muchas putas
+[26May2025 23:41:03.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> en mi casita =)
+[26May2025 23:41:41.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> mucho seso
+[26May2025 23:41:55.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Santix15's game mode to Creative Mode
+[26May2025 23:42:55.916] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[26May2025 23:42:55.917] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 12332
+}
+[26May2025 23:42:55.917] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[26May2025 23:42:55.917] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "[!@0lu5ap~n(320#Z|a%"
+]
+[26May2025 23:43:44.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 hit the ground too hard
+[26May2025 23:43:48.471] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748303028471
+[26May2025 23:44:08.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Santix15's game mode to Survival Mode
+[26May2025 23:44:47.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 23:44:47.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 23:46:18.231] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Miner'/23937, l='ServerLevel[world]', x=-297.28, y=65.00, z=1160.54] died, message: 'Miner froze to death'

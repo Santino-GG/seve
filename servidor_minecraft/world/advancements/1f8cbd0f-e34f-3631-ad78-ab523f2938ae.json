@@ -10390,6 +10390,7 @@
     "criteria": {
       "illageandspillage:spiritcaller": "2025-05-25 06:14:57 +0000",
       "illageandspillage:preserver": "2025-05-25 05:46:35 +0000",
+      "illageandspillage:absorber": "2025-05-26 23:37:59 +0000",
       "illageandspillage:engineer": "2025-05-25 05:14:02 +0000",
       "illageandspillage:twittollager": "2025-05-25 06:10:31 +0000",
       "illageandspillage:igniter": "2025-05-25 05:11:35 +0000",
@@ -10430,9 +10431,10 @@
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
       "killed_evoker": "2025-05-25 06:16:31 +0000",
-      "killed_illusioner": "2025-05-26 23:25:14 +0000"
+      "killed_illusioner": "2025-05-26 23:25:14 +0000",
+      "killed_iceologer": "2025-05-26 23:36:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
@@ -10452,9 +10454,21 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-05-26 23:36:55 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/kill_illusioner": {
     "criteria": {
       "killed_illusioner": "2025-05-26 23:25:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/blue_ice": {
+    "criteria": {
+      "has_result": "2025-05-26 23:36:57 +0000"
     },
     "done": true
   },
