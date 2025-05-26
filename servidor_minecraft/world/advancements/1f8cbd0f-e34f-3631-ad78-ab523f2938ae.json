@@ -10386,12 +10386,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_axe": "2025-05-25 05:18:15 +0000"
-    },
-    "done": true
-  },
   "illageandspillage:kill_all_iands": {
     "criteria": {
       "illageandspillage:spiritcaller": "2025-05-25 06:14:57 +0000",
@@ -10403,27 +10397,21 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-05-25 05:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_axe": "2025-05-25 05:18:15 +0000"
     },
     "done": true
   },
-  "friendsandfoes:adventure/the_magicians": {
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
-      "killed_evoker": "2025-05-25 06:16:31 +0000"
-    },
-    "done": false
-  },
-  "illageandspillage:kill_spiri": {
-    "criteria": {
-      "requirement": "2025-05-25 06:14:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-05-25 05:14:18 +0000"
+      "has_golden_axe": "2025-05-25 05:18:15 +0000"
     },
     "done": true
   },
@@ -10432,6 +10420,18 @@
       "lightning_rod_with_villager_no_fire": "2025-05-25 06:12:15 +0000"
     },
     "done": true
+  },
+  "illageandspillage:kill_spiri": {
+    "criteria": {
+      "requirement": "2025-05-25 06:14:57 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2025-05-25 06:16:31 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
