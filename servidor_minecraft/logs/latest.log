@@ -2540,3 +2540,31 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26May2025 23:12:36.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed45ce55-0981-3ac0-876f-3677ed698d8a
 [26May2025 23:12:36.490] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player YOUNGDINO07 (ed45ce55-0981-3ac0-876f-3677ed698d8a) successfully connected to voice chat
 [26May2025 23:13:44.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> hola?
+[26May2025 23:15:38.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> que mrd
+[26May2025 23:15:43.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> me anda re lag
+[26May2025 23:16:54.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 lost connection: Disconnected
+[26May2025 23:16:54.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 left the game
+[26May2025 23:16:54.599] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kevedo909
+[26May2025 23:18:05.034] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.239.12.135:56415] logged in with entity id 11191 at (-249.01556890434586, 68.0, 1145.3860703827006)
+[26May2025 23:18:05.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[26May2025 23:18:05.061] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[26May2025 23:18:05.965] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[26May2025 23:18:05.966] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[26May2025 23:18:06.519] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity crittersandcompanions:dragonfly that already existed from 5e25498f-c6ee-4697-a0fa-c5728b720afa to 6edf950a-74f3-4cfb-8afc-834af4058fdb
+[26May2025 23:18:07.064] [Server thread/INFO] [de.cas_ual_ty.deuf.DEUF/]: Changing UUID of entity friendsandfoes:mauler that already existed from b1303805-dd60-4865-afe5-9954d37ccbe8 to 5861c418-ceb7-4d61-a903-def729132383
+[26May2025 23:18:13.851] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[26May2025 23:18:14.854] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[26May2025 23:18:14.855] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[26May2025 23:18:29.594] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/11564, l='ServerLevel[world]', x=-290.35, y=64.56, z=1154.30] died, message: 'Fletcher froze to death'
+[26May2025 23:18:29.597] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/11577, l='ServerLevel[world]', x=-289.55, y=64.56, z=1154.93] died, message: 'Toolsmith froze to death'
+[26May2025 23:18:35.587] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/11571, l='ServerLevel[world]', x=-292.44, y=64.56, z=1154.66] died, message: 'Armorer froze to death'
+[26May2025 23:19:37.584] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/11583, l='ServerLevel[world]', x=-294.64, y=64.56, z=1154.77] died, message: 'Fletcher froze to death'
+[26May2025 23:21:38.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC was slain by Zombie
+[26May2025 23:23:35.284] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/11568, l='ServerLevel[world]', x=-288.92, y=64.56, z=1154.30] died, message: 'Florist died'
+[26May2025 23:23:35.285] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/11575, l='ServerLevel[world]', x=-289.95, y=64.56, z=1154.89] died, message: 'Cleric died'
+[26May2025 23:24:32.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC has made the advancement [Stone Age]
+[26May2025 23:24:49.043] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/11572, l='ServerLevel[world]', x=-291.34, y=64.00, z=1158.45] died, message: 'Weaponsmith was shot by Illusioner'
+[26May2025 23:25:00.243] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/11562, l='ServerLevel[world]', x=-290.33, y=64.56, z=1154.51] died, message: 'Farmer was shot by Illusioner'
+[26May2025 23:25:04.091] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/11567, l='ServerLevel[world]', x=-296.21, y=64.56, z=1155.32] died, message: 'Cleric was shot by Illusioner'
+[26May2025 23:25:04.142] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/11563, l='ServerLevel[world]', x=-297.98, y=64.56, z=1154.50] died, message: 'Hunter was shot by Illusioner'
+[26May2025 23:25:14.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [World of illusion]
