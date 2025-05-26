@@ -2504,3 +2504,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "~ii89/T[_b[Sov'320A4~an"
 ]
 [26May2025 22:53:45.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 fell off some vines
+[26May2025 22:58:34.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Wolf
+[26May2025 22:59:45.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 died from dehydration
+[26May2025 23:02:47.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Thornshell Crab
+[26May2025 23:04:49.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 suffocated in a wall
