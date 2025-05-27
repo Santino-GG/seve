@@ -3365,6 +3365,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-25 02:55:37 +0000",
+      "chicken": "2025-05-27 22:53:13 +0000",
       "beef": "2025-05-24 00:42:27 +0000",
       "porkchop": "2025-05-22 01:57:19 +0000",
       "apple": "2025-05-10 03:12:02 +0000",
@@ -6316,6 +6317,30 @@
   "cfm:recipes/decorations/jungle_desk": {
     "criteria": {
       "has_log": "2025-05-26 23:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-27 22:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-27 22:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-27 22:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-27 22:51:38 +0000"
     },
     "done": true
   },
