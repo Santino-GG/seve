@@ -362,3 +362,16 @@
   "`f&4ZC~Jw320V\\tKVg"
 ]
 [27May2025 01:18:24.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> apaga el server baby xd
+[27May2025 01:18:31.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 lost connection: Disconnected
+[27May2025 01:18:31.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 left the game
+[27May2025 01:18:31.191] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kevedo909
+[27May2025 01:22:33.351] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[27May2025 01:22:33.351] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": -718913233
+}
+[27May2025 01:22:33.352] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 44 extra bytes: 
+[27May2025 01:22:33.352] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "G\\Jn.%f%320=tt1"
+]
