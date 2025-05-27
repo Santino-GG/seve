@@ -2913,3 +2913,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "[-126, -116, -105, 52, -28, -48, -117, -90, 36, 86, 74]"
 ]
 [27May2025 23:27:55.731] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[27May2025 23:30:35.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 fell from a high place
+[27May2025 23:37:01.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> xd
+[27May2025 23:37:06.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> xd
+[27May2025 23:37:13.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Ashen Blood Beast Patient
+[27May2025 23:37:26.770] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[27May2025 23:37:32.020] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[27May2025 23:38:44.372] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[27May2025 23:38:44.372] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
