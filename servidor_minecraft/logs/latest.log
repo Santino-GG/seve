@@ -326,3 +326,39 @@
 [27May2025 01:06:09.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to lobo3224]
 [27May2025 01:07:03.339] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
 [27May2025 01:07:33.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to lobo3224]
+[27May2025 01:08:20.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to lobo3224]
+[27May2025 01:10:04.300] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[27May2025 01:10:04.300] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 9161
+}
+[27May2025 01:10:04.301] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[27May2025 01:10:04.301] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "B_<<fRgxQ\\x320,0y\"CIg"
+]
+[27May2025 01:10:56.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[27May2025 01:10:56.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[27May2025 01:10:56.291] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[27May2025 01:13:28.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> nos vemos kevin
+[27May2025 01:13:34.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> me voy
+[27May2025 01:13:39.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> okok xd
+[27May2025 01:13:43.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> pero dejo el serveer prendido
+[27May2025 01:13:52.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> yo me r eolvode de apagar la pc
+[27May2025 01:14:02.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> avisame cuando te salgas asi lo apago
+[27May2025 01:14:06.775] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/68155, l='ServerLevel[world]', x=547.32, y=-256.00, z=750.52] died, message: 'Unemployed was killed'
+[27May2025 01:14:09.590] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
+[27May2025 01:14:09.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[27May2025 01:14:09.591] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[27May2025 01:15:29.775] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/68288, l='ServerLevel[world]', x=547.32, y=-256.00, z=750.52] died, message: 'Unemployed was killed'
+[27May2025 01:16:20.068] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[27May2025 01:16:20.069] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1783883
+}
+[27May2025 01:16:20.069] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[27May2025 01:16:20.069] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "`f&4ZC~Jw320V\\tKVg"
+]
+[27May2025 01:18:24.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> apaga el server baby xd
