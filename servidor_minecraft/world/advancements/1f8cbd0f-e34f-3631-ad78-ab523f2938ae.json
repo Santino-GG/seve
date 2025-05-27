@@ -10442,6 +10442,12 @@
     },
     "done": false
   },
+  "morevillagers:kill_villager": {
+    "criteria": {
+      "killedvillager": "2025-05-27 00:00:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2025-05-26 23:26:23 +0000"
