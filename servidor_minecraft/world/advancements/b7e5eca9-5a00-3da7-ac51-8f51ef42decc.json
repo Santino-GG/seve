@@ -10019,9 +10019,21 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-05-27 00:39:45 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:protectedby_darkness": {
     "criteria": {
       "protectedby_darkness_0": "2025-05-27 00:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-27 00:33:30 +0000"
     },
     "done": true
   },

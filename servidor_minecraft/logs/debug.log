@@ -10996,3 +10996,133 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27May2025 00:26:19.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Santix15) moved wrongly! 1.7264647384529326
 [27May2025 00:26:19.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Santix15) moved wrongly! 2.0046132582247083
 [27May2025 00:26:19.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Santix15) moved wrongly! 2.273570006513296
+[27May2025 00:29:47.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 00:29:47.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 00:30:28.045] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -859 859 859 VisualFallingBlockEntity['Falling Deepslate'/50305, l='ServerLevel[world]', x=-858.50, y=-44.00, z=859.50]
+[27May2025 00:30:42.043] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -858 854 854 VisualFallingBlockEntity['Falling Deepslate'/50375, l='ServerLevel[world]', x=-857.50, y=-47.00, z=854.50]
+[27May2025 00:30:50.846] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -858 843 843 VisualFallingBlockEntity['Falling Deepslate'/50450, l='ServerLevel[world]', x=-857.50, y=-47.00, z=843.50]
+[27May2025 00:30:50.850] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:tuff} -861 846 846 VisualFallingBlockEntity['Falling Tuff'/50451, l='ServerLevel[world]', x=-860.50, y=-45.00, z=846.50]
+[27May2025 00:30:56.494] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -859 838 838 VisualFallingBlockEntity['Falling Deepslate'/50502, l='ServerLevel[world]', x=-858.50, y=-47.00, z=838.50]
+[27May2025 00:30:56.497] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -861 838 838 VisualFallingBlockEntity['Falling Deepslate'/50503, l='ServerLevel[world]', x=-860.50, y=-45.00, z=838.50]
+[27May2025 00:30:57.397] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -817 947 947 VisualFallingBlockEntity['Falling Deepslate'/50512, l='ServerLevel[world]', x=-816.50, y=-13.00, z=947.50]
+[27May2025 00:31:01.798] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -867 843 843 VisualFallingBlockEntity['Falling Deepslate'/50561, l='ServerLevel[world]', x=-866.50, y=-48.00, z=843.50]
+[27May2025 00:31:11.695] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -873 840 840 VisualFallingBlockEntity['Falling Deepslate'/50663, l='ServerLevel[world]', x=-872.50, y=-48.00, z=840.50]
+[27May2025 00:31:19.945] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -879 848 848 VisualFallingBlockEntity['Falling Deepslate'/50715, l='ServerLevel[world]', x=-878.50, y=-47.00, z=848.50]
+[27May2025 00:31:27.291] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -873 848 848 VisualFallingBlockEntity['Falling Deepslate'/50772, l='ServerLevel[world]', x=-872.50, y=-47.00, z=848.50]
+[27May2025 00:31:27.291] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -872 848 848 VisualFallingBlockEntity['Falling Deepslate'/50773, l='ServerLevel[world]', x=-871.50, y=-47.00, z=848.50]
+[27May2025 00:31:32.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> que paso
+[27May2025 00:31:37.005] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -875 856 856 VisualFallingBlockEntity['Falling Deepslate'/50817, l='ServerLevel[world]', x=-874.50, y=-52.00, z=856.50]
+[27May2025 00:31:37.006] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -874 857 857 VisualFallingBlockEntity['Falling Deepslate'/50818, l='ServerLevel[world]', x=-873.50, y=-49.00, z=857.50]
+[27May2025 00:31:47.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> con lauti y agus
+[27May2025 00:32:06.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> ahi les pregunto
+[27May2025 00:32:23.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Sneak 100]
+[27May2025 00:32:34.401] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -786 931 931 VisualFallingBlockEntity['Falling Deepslate'/51193, l='ServerLevel[world]', x=-785.50, y=-18.00, z=931.50]
+[27May2025 00:32:34.403] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -786 934 934 VisualFallingBlockEntity['Falling Deepslate'/51194, l='ServerLevel[world]', x=-785.50, y=-18.00, z=934.50]
+[27May2025 00:32:37.096] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -786 924 924 VisualFallingBlockEntity['Falling Deepslate'/51215, l='ServerLevel[world]', x=-785.50, y=-18.00, z=924.50]
+[27May2025 00:32:37.100] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -789 923 923 VisualFallingBlockEntity['Falling Deepslate'/51216, l='ServerLevel[world]', x=-788.50, y=-17.00, z=923.50]
+[27May2025 00:32:44.342] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -787 917 917 VisualFallingBlockEntity['Falling Deepslate'/51258, l='ServerLevel[world]', x=-786.50, y=-18.00, z=917.50]
+[27May2025 00:32:53.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> que hacen en una ancient city
+[27May2025 00:32:59.345] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -786 905 905 VisualFallingBlockEntity['Falling Deepslate'/51352, l='ServerLevel[world]', x=-785.50, y=-16.00, z=905.50]
+[27May2025 00:33:05.294] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -858 848 848 VisualFallingBlockEntity['Falling Deepslate'/51406, l='ServerLevel[world]', x=-857.50, y=-47.00, z=848.50]
+[27May2025 00:33:12.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> ya quisiera
+[27May2025 00:33:17.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> buscando algo
+[27May2025 00:33:29.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> encontré un sensor nomas =(
+[27May2025 00:33:30.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Sneak 100]
+[27May2025 00:33:56.251] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -779 849 849 VisualFallingBlockEntity['Falling Deepslate'/51814, l='ServerLevel[world]', x=-778.50, y=-26.00, z=849.50]
+[27May2025 00:34:02.701] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -783 840 840 VisualFallingBlockEntity['Falling Deepslate'/51892, l='ServerLevel[world]', x=-782.50, y=-22.00, z=840.50]
+[27May2025 00:34:21.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -783 824 824 VisualFallingBlockEntity['Falling Deepslate'/52064, l='ServerLevel[world]', x=-782.50, y=-26.00, z=824.50]
+[27May2025 00:34:40.748] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -781 818 818 VisualFallingBlockEntity['Falling Deepslate'/52301, l='ServerLevel[world]', x=-780.50, y=-23.00, z=818.50]
+[27May2025 00:34:41.191] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -847 848 848 VisualFallingBlockEntity['Falling Deepslate'/52312, l='ServerLevel[world]', x=-846.50, y=-47.00, z=848.50]
+[27May2025 00:34:47.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 00:34:47.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 00:34:53.445] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -839 851 851 VisualFallingBlockEntity['Falling Deepslate'/52371, l='ServerLevel[world]', x=-838.50, y=-47.00, z=851.50]
+[27May2025 00:34:55.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> eu
+[27May2025 00:34:58.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> que
+[27May2025 00:35:01.505] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:tuff} -829 849 849 VisualFallingBlockEntity['Falling Tuff'/52421, l='ServerLevel[world]', x=-828.50, y=-44.00, z=849.50]
+[27May2025 00:35:04.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> sito
+[27May2025 00:35:04.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> que g´po de mierda que tengo
+[27May2025 00:35:10.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> :)
+[27May2025 00:35:16.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> el agus no hace nada}
+[27May2025 00:35:18.493] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -814 852 852 VisualFallingBlockEntity['Falling Deepslate'/52530, l='ServerLevel[world]', x=-813.50, y=-48.00, z=852.50]
+[27May2025 00:35:18.495] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -815 849 849 VisualFallingBlockEntity['Falling Deepslate'/52531, l='ServerLevel[world]', x=-814.50, y=-44.00, z=849.50]
+[27May2025 00:35:23.391] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:gravel} -809 849 849 VisualFallingBlockEntity['Falling Gravel'/52561, l='ServerLevel[world]', x=-808.50, y=-47.00, z=849.50]
+[27May2025 00:35:23.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> y lauti
+[27May2025 00:35:27.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> jaja
+[27May2025 00:35:31.895] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -782 788 788 VisualFallingBlockEntity['Falling Deepslate'/52635, l='ServerLevel[world]', x=-781.50, y=-23.00, z=788.50]
+[27May2025 00:35:34.646] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -802 852 852 VisualFallingBlockEntity['Falling Deepslate'/52667, l='ServerLevel[world]', x=-801.50, y=-48.00, z=852.50]
+[27May2025 00:35:34.649] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -801 852 852 VisualFallingBlockEntity['Falling Deepslate'/52668, l='ServerLevel[world]', x=-800.50, y=-44.00, z=852.50]
+[27May2025 00:35:37.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> y el lauti se hacia el agrandado y no sabe como poner el chat
+[27May2025 00:35:48.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> vení a nuestro equipo
+[27May2025 00:35:51.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> XD
+[27May2025 00:35:55.591] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:tuff} -783 778 778 VisualFallingBlockEntity['Falling Tuff'/52745, l='ServerLevel[world]', x=-782.50, y=-27.00, z=778.50]
+[27May2025 00:35:55.593] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:tuff} -784 779 779 VisualFallingBlockEntity['Falling Tuff'/52746, l='ServerLevel[world]', x=-783.50, y=-23.00, z=779.50]
+[27May2025 00:36:00.544] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -783 771 771 VisualFallingBlockEntity['Falling Deepslate'/52775, l='ServerLevel[world]', x=-782.50, y=-26.00, z=771.50]
+[27May2025 00:36:00.546] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -782 771 771 VisualFallingBlockEntity['Falling Deepslate'/52776, l='ServerLevel[world]', x=-781.50, y=-25.00, z=771.50]
+[27May2025 00:36:00.546] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -783 772 772 VisualFallingBlockEntity['Falling Deepslate'/52777, l='ServerLevel[world]', x=-782.50, y=-23.00, z=772.50]
+[27May2025 00:36:00.550] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -784 771 771 VisualFallingBlockEntity['Falling Deepslate'/52778, l='ServerLevel[world]', x=-783.50, y=-27.00, z=771.50]
+[27May2025 00:36:00.551] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -784 773 773 VisualFallingBlockEntity['Falling Deepslate'/52779, l='ServerLevel[world]', x=-783.50, y=-23.00, z=773.50]
+[27May2025 00:36:02.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> agarro un sniper y se hacia el inacansable
+[27May2025 00:36:03.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -795 852 852 VisualFallingBlockEntity['Falling Deepslate'/52805, l='ServerLevel[world]', x=-794.50, y=-47.00, z=852.50]
+[27May2025 00:36:03.247] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -794 852 852 VisualFallingBlockEntity['Falling Deepslate'/52806, l='ServerLevel[world]', x=-793.50, y=-45.00, z=852.50]
+[27May2025 00:36:06.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> puedo?
+[27May2025 00:36:08.001] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[27May2025 00:36:11.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> no
+[27May2025 00:36:17.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> jajaaja
+[27May2025 00:36:20.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> pinché lobo
+[27May2025 00:36:28.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> invita a un amigo
+[27May2025 00:36:28.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> literalmente las 2 bases las hice yo
+[27May2025 00:37:16.504] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -792 845 845 VisualFallingBlockEntity['Falling Deepslate'/53225, l='ServerLevel[world]', x=-791.50, y=-47.00, z=845.50]
+[27May2025 00:37:28.445] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:tuff} -782 740 740 VisualFallingBlockEntity['Falling Tuff'/53318, l='ServerLevel[world]', x=-781.50, y=-26.00, z=740.50]
+[27May2025 00:37:31.756] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -783 732 732 VisualFallingBlockEntity['Falling Deepslate'/53348, l='ServerLevel[world]', x=-782.50, y=-27.00, z=732.50]
+[27May2025 00:37:46.049] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -781 725 725 VisualFallingBlockEntity['Falling Deepslate'/53442, l='ServerLevel[world]', x=-780.50, y=-32.00, z=725.50]
+[27May2025 00:37:46.051] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -781 725 725 VisualFallingBlockEntity['Falling Deepslate'/53443, l='ServerLevel[world]', x=-780.50, y=-31.00, z=725.50]
+[27May2025 00:37:46.051] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -779 725 725 VisualFallingBlockEntity['Falling Deepslate'/53444, l='ServerLevel[world]', x=-778.50, y=-30.00, z=725.50]
+[27May2025 00:37:56.356] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_16
+[27May2025 00:38:04.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> I have
+[27May2025 00:38:05.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> an
+[27May2025 00:38:10.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> fucking idea
+[27May2025 00:38:17.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> pobe
+[27May2025 00:38:19.751] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[27May2025 00:38:23.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/crashed_carriage
+[27May2025 00:38:24.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> me voy a cambiar de base sin ellos
+[27May2025 00:38:27.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> jijiji
+[27May2025 00:38:34.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> re violin XD
+[27May2025 00:38:38.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> invitaa a un amigo
+[27May2025 00:38:43.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> pa que
+[27May2025 00:38:52.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> para que te ayude
+[27May2025 00:38:57.406] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -830 569 569 VisualFallingBlockEntity['Falling Deepslate'/54518, l='ServerLevel[world]', x=-829.50, y=-37.00, z=569.50]
+[27May2025 00:39:01.132] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[27May2025 00:39:01.133] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 6645
+}
+[27May2025 00:39:01.133] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[27May2025 00:39:01.133] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ">s+>!QW]]2{GM3205^!+p"
+]
+[27May2025 00:39:01.406] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:gravel} -831 563 563 VisualFallingBlockEntity['Falling Gravel'/54568, l='ServerLevel[world]', x=-830.50, y=-36.00, z=563.50]
+[27May2025 00:39:01.408] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:gravel} -827 565 565 VisualFallingBlockEntity['Falling Gravel'/54569, l='ServerLevel[world]', x=-826.50, y=-40.00, z=565.50]
+[27May2025 00:39:04.355] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -830 558 558 VisualFallingBlockEntity['Falling Deepslate'/54643, l='ServerLevel[world]', x=-829.50, y=-40.00, z=558.50]
+[27May2025 00:39:09.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> ok
+[27May2025 00:39:45.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Stay dead]
+[27May2025 00:39:47.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 00:39:47.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 00:41:08.898] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[27May2025 00:41:39.401] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:tuff} -741 771 771 VisualFallingBlockEntity['Falling Tuff'/56533, l='ServerLevel[world]', x=-740.50, y=-42.00, z=771.50]
+[27May2025 00:42:06.959] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -740 802 802 VisualFallingBlockEntity['Falling Deepslate'/56886, l='ServerLevel[world]', x=-739.50, y=-42.00, z=802.50]
+[27May2025 00:44:47.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 00:44:47.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 00:44:57.692] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[27May2025 00:45:06.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> oigan hermanos
+[27May2025 00:45:24.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> les paso las coordenadas y a cambio
+[27May2025 00:45:37.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> que
+[27May2025 00:45:38.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> me dan 2 pedasos de tierra
+[27May2025 00:45:54.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> coordenadas de que
+[27May2025 00:45:58.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> nase
+[27May2025 00:46:02.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> base
+[27May2025 00:46:30.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> y posta
+[27May2025 00:46:36.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> 2 pedazos de tuwrra
+[27May2025 00:46:44.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> tierra"}
+[27May2025 00:46:52.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> pedazos de tierra a que te referis
+[27May2025 00:47:06.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> ") a tierra literal
