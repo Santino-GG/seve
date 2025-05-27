@@ -8388,3 +8388,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27May2025 21:49:41.167] [Worker-Main-2/DEBUG] [ModernFix/]: Saved stronghold cache for dimension minecraft:server_faucet_test_level
 [27May2025 21:54:34.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27May2025 21:54:34.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 21:59:33.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 21:59:34.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 22:04:33.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 22:04:33.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
