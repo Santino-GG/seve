@@ -49,3 +49,18 @@
 [27May2025 00:15:34.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC left the game
 [27May2025 00:15:34.454] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautiABC
 [27May2025 00:16:08.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> que les paso
+[27May2025 00:19:00.726] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/46038, l='ServerLevel[world]', x=209.27, y=-256.00, z=538.37] died, message: 'Unemployed was killed'
+[27May2025 00:22:42.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved too quickly! -5.970938799201349,-0.3717681680150946,15.158553237946307
+[27May2025 00:23:57.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[27May2025 00:24:06.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[27May2025 00:24:09.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has reached the goal [New Age Librarian]
+[27May2025 00:24:09.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> kevin
+[27May2025 00:25:00.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[27May2025 00:26:18.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[27May2025 00:26:19.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Santix15) moved wrongly! 0.5156511183602106
+[27May2025 00:26:19.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Santix15) moved wrongly! 0.8337391310684552
+[27May2025 00:26:19.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Santix15) moved wrongly! 1.1413492597706636
+[27May2025 00:26:19.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Santix15) moved wrongly! 1.438815840025768
+[27May2025 00:26:19.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Santix15) moved wrongly! 1.7264647384529326
+[27May2025 00:26:19.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Santix15) moved wrongly! 2.0046132582247083
+[27May2025 00:26:19.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Santix15) moved wrongly! 2.273570006513296

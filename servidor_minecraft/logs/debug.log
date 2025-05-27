@@ -10968,3 +10968,31 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27May2025 00:15:34.454] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of lautiABC
 [27May2025 00:15:34.454] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautiABC
 [27May2025 00:16:08.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> que les paso
+[27May2025 00:19:00.726] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/46038, l='ServerLevel[world]', x=209.27, y=-256.00, z=538.37] died, message: 'Unemployed was killed'
+[27May2025 00:19:47.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 00:19:47.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 00:22:42.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved too quickly! -5.970938799201349,-0.3717681680150946,15.158553237946307
+[27May2025 00:23:57.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[27May2025 00:24:06.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[27May2025 00:24:09.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has reached the goal [New Age Librarian]
+[27May2025 00:24:09.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> kevin
+[27May2025 00:24:47.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 00:24:47.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 00:25:00.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[27May2025 00:25:39.412] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_08
+[27May2025 00:26:04.616] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3
+[27May2025 00:26:04.626] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_phantom_rider_0
+[27May2025 00:26:04.649] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2
+[27May2025 00:26:04.657] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_1
+[27May2025 00:26:04.680] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[27May2025 00:26:04.689] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_0
+[27May2025 00:26:04.819] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1
+[27May2025 00:26:04.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_mounted_0
+[27May2025 00:26:18.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[27May2025 00:26:19.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Santix15) moved wrongly! 0.5156511183602106
+[27May2025 00:26:19.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Santix15) moved wrongly! 0.8337391310684552
+[27May2025 00:26:19.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Santix15) moved wrongly! 1.1413492597706636
+[27May2025 00:26:19.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Santix15) moved wrongly! 1.438815840025768
+[27May2025 00:26:19.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Santix15) moved wrongly! 1.7264647384529326
+[27May2025 00:26:19.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Santix15) moved wrongly! 2.0046132582247083
+[27May2025 00:26:19.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Santix15) moved wrongly! 2.273570006513296
