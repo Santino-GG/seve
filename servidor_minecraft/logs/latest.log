@@ -306,3 +306,23 @@
 [27May2025 00:55:22.725] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/62244, l='ServerLevel[world]', x=-274.50, y=76.00, z=1076.50] died, message: 'Unemployed was killed'
 [27May2025 00:55:36.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Santix15 a server operator
 [27May2025 00:57:38.776] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/63057, l='ServerLevel[world]', x=200.81, y=-256.00, z=180.26] died, message: 'Unemployed was killed'
+[27May2025 00:58:33.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[27May2025 00:59:10.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> xddxdd
+[27May2025 01:03:50.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported lobo3224 to Santix15]
+[27May2025 01:04:11.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported lobo3224 to Santix15]
+[27May2025 01:04:19.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Warden
+[27May2025 01:04:26.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported lobo3224 to Santix15]
+[27May2025 01:04:49.547] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[27May2025 01:04:49.547] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1383249
+}
+[27May2025 01:04:49.547] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[27May2025 01:04:49.547] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "_j<B^#BN2f320AgJ#h`"
+]
+[27May2025 01:05:02.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
+[27May2025 01:06:09.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to lobo3224]
+[27May2025 01:07:03.339] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[27May2025 01:07:33.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to lobo3224]
