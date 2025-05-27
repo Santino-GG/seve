@@ -10049,5 +10049,11 @@
     },
     "done": true
   },
+  "netherexp:nether/ghost_mucus": {
+    "criteria": {
+      "has_item": "2025-05-27 23:23:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
