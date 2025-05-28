@@ -4534,6 +4534,7 @@
       "blastfurnace": "2025-05-06 00:02:43 +0000",
       "lectern": "2025-05-07 22:07:32 +0000",
       "woodworkingtable": "2025-05-04 02:00:51 +0000",
+      "stonecutter": "2025-05-28 01:13:27 +0000",
       "cauldron": "2025-05-04 05:33:45 +0000",
       "composter": "2025-05-03 05:03:46 +0000"
     },
@@ -10069,6 +10070,12 @@
   "graveyard:graveyard/middle_bone_staff": {
     "criteria": {
       "middle_bone_staff": "2025-05-28 00:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-05-28 01:15:01 +0000"
     },
     "done": true
   },

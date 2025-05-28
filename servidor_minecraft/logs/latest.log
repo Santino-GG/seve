@@ -534,3 +534,16 @@
 [28May2025 00:47:54.915] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [28May2025 00:47:54.915] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [28May2025 00:48:50.465] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[28May2025 01:12:42.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/69586, l='ServerLevel[world]', x=-1013.30, y=111.00, z=144.70] died, message: 'Beekeeper was slain by Zombie'
+[28May2025 01:14:53.562] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/70848, l='ServerLevel[world]', x=-271.24, y=-256.00, z=1078.48] died, message: 'Unemployed was killed'
+[28May2025 01:18:33.417] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[28May2025 01:20:34.435] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[28May2025 01:20:34.436] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 7852
+}
+[28May2025 01:20:34.436] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[28May2025 01:20:34.436] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "kK qX>w8q*ycA336DT8"
+]
