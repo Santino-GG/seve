@@ -10876,3 +10876,450 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28May2025 00:20:06.057] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
 [28May2025 00:20:06.067] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_5
 [28May2025 00:20:27.921] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_05
+[28May2025 00:20:49.893] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[28May2025 00:20:49.893] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[28May2025 00:20:49.894] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[28May2025 00:20:59.425] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_3
+[28May2025 00:20:59.426] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_5
+[28May2025 00:20:59.427] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_14
+[28May2025 00:20:59.428] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_10
+[28May2025 00:20:59.429] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_4
+[28May2025 00:21:23.139] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[28May2025 00:21:44.276] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/savanna/savanna_engineer
+[28May2025 00:21:44.279] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/savanna/savanna_oceanographer
+[28May2025 00:21:44.284] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/savanna/savanna_florist
+[28May2025 00:21:44.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/savanna/savanna_hunter
+[28May2025 00:21:44.355] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_red_mushroom_stem_01
+[28May2025 00:21:45.896] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[28May2025 00:21:45.910] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[28May2025 00:21:45.923] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[28May2025 00:21:45.942] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_6
+[28May2025 00:21:45.959] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[28May2025 00:21:45.979] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[28May2025 00:21:49.704] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
+[28May2025 00:21:59.142] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_12
+[28May2025 00:21:59.155] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[28May2025 00:22:00.458] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_06
+[28May2025 00:22:00.557] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
+[28May2025 00:22:00.600] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[28May2025 00:22:07.356] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[28May2025 00:22:07.358] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/ravager_prison
+[28May2025 00:22:09.852] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_01
+[28May2025 00:22:12.335] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_01
+[28May2025 00:22:27.957] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[28May2025 00:22:33.286] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[28May2025 00:22:35.447] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[28May2025 00:22:39.313] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[28May2025 00:22:44.674] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[28May2025 00:22:44.674] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 10777
+}
+[28May2025 00:22:44.674] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[28May2025 00:22:44.675] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "p,yfb7ZlX336G%P("
+]
+[28May2025 00:22:46.327] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_1
+[28May2025 00:22:46.327] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_2
+[28May2025 00:22:46.328] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[28May2025 00:22:49.770] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[28May2025 00:22:49.770] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[28May2025 00:22:49.770] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[28May2025 00:22:49.770] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[28May2025 00:22:53.054] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[28May2025 00:22:53.054] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[28May2025 00:22:53.054] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[28May2025 00:22:53.054] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[28May2025 00:22:55.362] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[28May2025 00:22:55.362] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[28May2025 00:22:55.362] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[28May2025 00:22:55.363] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[28May2025 00:22:57.849] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[28May2025 00:22:57.850] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[28May2025 00:22:57.850] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[28May2025 00:22:57.850] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[28May2025 00:22:58.493] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_09
+[28May2025 00:23:01.678] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[28May2025 00:23:01.678] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[28May2025 00:23:01.679] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[28May2025 00:23:01.679] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[28May2025 00:23:01.713] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[28May2025 00:23:01.713] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[28May2025 00:23:01.713] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[28May2025 00:23:01.714] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[28May2025 00:23:01.719] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[28May2025 00:23:01.719] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[28May2025 00:23:01.719] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[28May2025 00:23:01.719] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[28May2025 00:23:01.725] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[28May2025 00:23:01.725] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[28May2025 00:23:01.725] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[28May2025 00:23:01.725] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[28May2025 00:23:01.978] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[28May2025 00:23:01.979] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[28May2025 00:23:01.979] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[28May2025 00:23:01.979] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[28May2025 00:23:02.174] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[28May2025 00:23:02.175] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[28May2025 00:23:02.175] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[28May2025 00:23:02.175] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[28May2025 00:23:02.180] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[28May2025 00:23:02.180] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[28May2025 00:23:02.180] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[28May2025 00:23:02.181] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[28May2025 00:23:02.187] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[28May2025 00:23:02.187] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[28May2025 00:23:02.187] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[28May2025 00:23:02.187] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[28May2025 00:23:03.115] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[28May2025 00:23:03.116] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[28May2025 00:23:03.116] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[28May2025 00:23:03.116] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[28May2025 00:23:05.590] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[28May2025 00:23:05.590] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[28May2025 00:23:05.591] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[28May2025 00:23:05.591] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[28May2025 00:23:08.000] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[28May2025 00:23:08.000] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[28May2025 00:23:08.001] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[28May2025 00:23:08.001] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[28May2025 00:23:10.381] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[28May2025 00:23:10.382] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[28May2025 00:23:10.382] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[28May2025 00:23:10.382] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[28May2025 00:23:12.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! 9.959403531777525,-0.46219585819042663,-1.7486593365069893
+[28May2025 00:23:12.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! 10.382521232256636,-0.5644796122487321,-1.5893944789368106
+[28May2025 00:23:12.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! 10.810329012834131,-0.6773826649909154,-1.4263699957346034
+[28May2025 00:23:12.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2900ms or 58 ticks behind
+[28May2025 00:23:17.465] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[28May2025 00:23:21.833] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-898, y=2, z=2446}
+[28May2025 00:23:21.834] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-898, y=2, z=2451}
+[28May2025 00:23:35.939] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_brown_mushroom_stem_01
+[28May2025 00:23:36.596] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[28May2025 00:23:36.596] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[28May2025 00:23:36.597] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[28May2025 00:23:36.597] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[28May2025 00:23:36.624] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[28May2025 00:23:36.625] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[28May2025 00:23:36.625] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[28May2025 00:23:36.625] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[28May2025 00:23:36.629] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[28May2025 00:23:36.629] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[28May2025 00:23:36.629] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[28May2025 00:23:36.630] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[28May2025 00:23:36.821] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[28May2025 00:23:36.822] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[28May2025 00:23:36.822] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[28May2025 00:23:36.822] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[28May2025 00:23:39.786] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-898, y=2, z=2446}
+[28May2025 00:23:39.787] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-909, y=2, z=2445}
+[28May2025 00:23:41.848] [Worker-Main-31/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-930, y=-12, z=2410}
+[28May2025 00:23:42.834] [Worker-Main-33/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-930, y=2, z=2419}
+[28May2025 00:23:42.835] [Worker-Main-33/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-930, y=-12, z=2410}
+[28May2025 00:23:43.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -3.0886264252211504,0.5475353934423026,-9.786343715194562
+[28May2025 00:23:43.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -3.263963575516641,0.5649681983503712,-10.459618933970432
+[28May2025 00:23:43.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -3.432122377771748,0.5811488427991947,-11.139783085268391
+[28May2025 00:23:43.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -3.591900537703964,0.5961639973814528,-11.826748100133045
+[28May2025 00:23:43.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -3.742116357546365,0.6100946902482178,-12.52037662228122
+[28May2025 00:23:43.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -3.8816111001509626,0.6230166340092751,-13.220479781200538
+[28May2025 00:23:43.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -4.009270753908595,0.6350005385798738,-13.926813773089634
+[28May2025 00:23:43.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -4.1240239721333865,0.6461124098906907,-14.639080551299685
+[28May2025 00:23:43.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -4.224856329011004,0.6564138345516142,-15.356928014869936
+[28May2025 00:23:43.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -4.310804863990825,0.665962250625725,-16.079952146807955
+[28May2025 00:23:43.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -4.380971005574679,0.6748112047484653,-16.80769938539106
+[28May2025 00:23:43.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -4.434522742502281,0.6830105959212602,-17.539670049177857
+[28May2025 00:23:43.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -4.470689967051499,0.6906069063231257,-18.275321569955395
+[28May2025 00:23:43.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -4.488765983032977,0.6976434195551064,-19.01407218280883
+[28May2025 00:23:43.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -4.488230065840298,0.7041604267469808,-19.755327062040124
+[28May2025 00:23:43.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -4.469000825143212,0.7101954209821173,-20.49854294875695
+[28May2025 00:23:43.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -4.431341511397704,0.7157832804987692,-21.24324864949631
+[28May2025 00:23:43.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -4.3757622152273825,0.7209564411555363,-21.9890509023885
+[28May2025 00:23:43.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -4.3029510919717495,0.7257450586342742,-22.73563491168761
+[28May2025 00:23:43.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -4.213718988915275,0.7301771608600802,-23.482760093754223
+[28May2025 00:23:43.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -4.108952955561222,0.7342787911113078,-24.230252380007187
+[28May2025 00:23:43.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -3.9895885068885946,0.7380741422864361,-24.977997530329503
+[28May2025 00:23:43.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -3.856570997960489,0.7415856827807232,-25.725928784769167
+[28May2025 00:23:43.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -3.7108384078310337,0.744834274416263,-26.474018725193673
+[28May2025 00:23:43.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -3.553313277071993,0.7478392828581661,-27.22227316665567
+[28May2025 00:23:43.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -3.384890596870605,0.7506186809325612,-27.970723538668608
+[28May2025 00:23:43.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -3.206421695893482,0.7531891452453721,-28.719417712315135
+[28May2025 00:23:43.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -3.0187178809744637,0.7555661464854779,-29.46841723564512
+[28May2025 00:23:43.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -2.822546837440882,0.7577640337846958,-30.217792585533516
+[28May2025 00:23:43.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -2.6186294604701743,0.7597961134840574,-30.96761887249704
+[28May2025 00:23:43.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -2.4076370497762127,0.7616747226430078,-31.717971957020836
+[28May2025 00:23:43.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -2.190191392284305,0.7634112976134588,-32.46892586419381
+[28May2025 00:23:43.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -1.9668715847711837,0.765016437979682,-33.220552873354336
+[28May2025 00:23:43.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! -1.7382147498424274,0.7664999661561893,-33.97292190306143
+[28May2025 00:23:43.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2304ms or 46 ticks behind
+[28May2025 00:23:43.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! 1.40260747199261,0.23911320865043706,-25.60609310515474
+[28May2025 00:23:43.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! 1.6405057286814326,0.24038014483350878,-26.360127699937948
+[28May2025 00:23:43.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! 1.882383659349216,0.24155080950626484,-27.11507488183406
+[28May2025 00:23:43.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! 2.1278601989816934,0.2426324347666906,-27.87098016665459
+[28May2025 00:23:43.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! 2.376585812840517,0.24363171743989653,-28.627883357270093
+[28May2025 00:23:43.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! 2.6282452415505304,0.24455485785819064,-29.385816911746588
+[28May2025 00:23:43.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! 2.8825504015610477,0.2454075959201134,-30.144807849304925
+[28May2025 00:23:43.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved too quickly! 3.139234994995377,0.2486952399830784,-30.90487922134389
+[28May2025 00:23:43.872] [Worker-Main-33/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-922, y=2, z=2445}
+[28May2025 00:23:43.873] [Worker-Main-33/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-898, y=2, z=2446}
+[28May2025 00:23:43.873] [Worker-Main-33/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-930, y=2, z=2437}
+[28May2025 00:23:43.882] [Worker-Main-31/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-923, y=2, z=2456}
+[28May2025 00:23:43.883] [Worker-Main-31/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-922, y=2, z=2445}
+[28May2025 00:23:43.883] [Worker-Main-31/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-898, y=2, z=2446}
+[28May2025 00:23:43.900] [Worker-Main-33/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-916, y=2, z=2489}
+[28May2025 00:23:43.900] [Worker-Main-33/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-925, y=2, z=2488}
+[28May2025 00:23:43.901] [Worker-Main-33/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-915, y=2, z=2494}
+[28May2025 00:23:43.913] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-923, y=2, z=2456}
+[28May2025 00:23:43.914] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-922, y=2, z=2445}
+[28May2025 00:23:43.943] [Worker-Main-33/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-915, y=2, z=2494}
+[28May2025 00:23:44.750] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-944, y=2, z=2480}
+[28May2025 00:23:44.759] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-951, y=2, z=2493}
+[28May2025 00:23:44.760] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-916, y=2, z=2489}
+[28May2025 00:23:44.760] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-934, y=2, z=2494}
+[28May2025 00:23:44.760] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-943, y=2, z=2488}
+[28May2025 00:23:44.767] [Worker-Main-31/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-934, y=2, z=2494}
+[28May2025 00:23:44.803] [Worker-Main-31/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-944, y=2, z=2480}
+[28May2025 00:23:44.805] [Worker-Main-31/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-923, y=2, z=2456}
+[28May2025 00:23:45.397] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-944, y=2, z=2480}
+[28May2025 00:23:45.399] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-952, y=13, z=2451}
+[28May2025 00:23:45.399] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-923, y=2, z=2456}
+[28May2025 00:23:45.400] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-931, y=2, z=2455}
+[28May2025 00:23:45.400] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-936, y=2, z=2448}
+[28May2025 00:23:46.311] [Worker-Main-33/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-952, y=13, z=2451}
+[28May2025 00:23:46.311] [Worker-Main-33/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-944, y=15, z=2438}
+[28May2025 00:23:46.311] [Worker-Main-33/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-931, y=2, z=2455}
+[28May2025 00:23:46.312] [Worker-Main-33/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-943, y=15, z=2426}
+[28May2025 00:23:46.312] [Worker-Main-33/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-936, y=2, z=2448}
+[28May2025 00:23:46.312] [Worker-Main-33/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-930, y=2, z=2437}
+[28May2025 00:23:46.312] [Worker-Main-33/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-931, y=2, z=2437}
+[28May2025 00:23:47.144] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-945, y=15, z=2412}
+[28May2025 00:23:47.145] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-936, y=0, z=2428}
+[28May2025 00:23:47.146] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-935, y=2, z=2402}
+[28May2025 00:23:47.146] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-954, y=2, z=2401}
+[28May2025 00:23:47.146] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-930, y=-12, z=2410}
+[28May2025 00:23:47.147] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-939, y=2, z=2402}
+[28May2025 00:23:47.157] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-945, y=15, z=2388}
+[28May2025 00:23:47.158] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-954, y=2, z=2401}
+[28May2025 00:23:47.159] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-948, y=2, z=2384}
+[28May2025 00:23:47.159] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-942, y=2, z=2382}
+[28May2025 00:23:47.175] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-945, y=15, z=2370}
+[28May2025 00:23:47.175] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-942, y=2, z=2382}
+[28May2025 00:23:47.180] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-944, y=15, z=2438}
+[28May2025 00:23:47.180] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-943, y=15, z=2426}
+[28May2025 00:23:47.181] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-931, y=2, z=2437}
+[28May2025 00:23:47.181] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-945, y=15, z=2412}
+[28May2025 00:23:47.181] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-936, y=0, z=2428}
+[28May2025 00:23:47.182] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-935, y=2, z=2402}
+[28May2025 00:23:47.182] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-930, y=2, z=2419}
+[28May2025 00:23:47.183] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-930, y=-12, z=2410}
+[28May2025 00:23:51.433] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_6
+[28May2025 00:23:51.434] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_3
+[28May2025 00:23:51.435] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_3
+[28May2025 00:24:01.951] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[28May2025 00:24:10.613] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/savanna/savanna_woodworker
+[28May2025 00:24:10.614] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[28May2025 00:24:21.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 00:24:21.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 00:25:26.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[28May2025 00:27:05.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[28May2025 00:27:38.091] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[28May2025 00:27:38.093] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/staircase
+[28May2025 00:27:38.096] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/basement
+[28May2025 00:27:38.097] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway
+[28May2025 00:27:38.098] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction
+[28May2025 00:27:38.098] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end
+[28May2025 00:27:38.100] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end_2
+[28May2025 00:27:38.100] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage_secret
+[28May2025 00:27:38.989] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[28May2025 00:27:38.994] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_7
+[28May2025 00:27:38.995] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_0_top
+[28May2025 00:27:38.999] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_0
+[28May2025 00:27:39.001] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_2_middle
+[28May2025 00:27:39.002] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_1
+[28May2025 00:27:39.002] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_6
+[28May2025 00:27:39.006] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_1
+[28May2025 00:27:39.015] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_0
+[28May2025 00:27:39.026] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_7
+[28May2025 00:27:39.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_2
+[28May2025 00:27:39.068] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_inner_part_0
+[28May2025 00:27:39.078] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_3_base
+[28May2025 00:27:39.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_5
+[28May2025 00:27:39.110] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_inner_top_0
+[28May2025 00:27:39.120] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_2
+[28May2025 00:27:39.125] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_6
+[28May2025 00:27:39.128] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_3
+[28May2025 00:27:39.135] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_level_1
+[28May2025 00:27:39.143] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_level_0
+[28May2025 00:27:39.150] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_0
+[28May2025 00:27:39.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_1
+[28May2025 00:27:39.156] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_7
+[28May2025 00:27:39.158] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_main_part_4
+[28May2025 00:27:39.158] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_wither_skeleton_0
+[28May2025 00:27:39.168] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_3
+[28May2025 00:27:39.180] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_5
+[28May2025 00:27:39.184] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_1
+[28May2025 00:27:39.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_skeleton_0
+[28May2025 00:27:39.186] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_4
+[28May2025 00:27:39.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_3
+[28May2025 00:27:39.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_cave_spider_0
+[28May2025 00:27:39.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_6
+[28May2025 00:27:39.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_7
+[28May2025 00:27:39.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_2
+[28May2025 00:27:39.192] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_5
+[28May2025 00:27:39.194] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_2
+[28May2025 00:27:39.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_6
+[28May2025 00:27:39.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_level_2
+[28May2025 00:27:39.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_top_part_4
+[28May2025 00:27:39.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_cave_spider_1
+[28May2025 00:27:39.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_3
+[28May2025 00:27:39.213] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_5
+[28May2025 00:27:39.215] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_room_0
+[28May2025 00:27:39.217] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_base_part_4
+[28May2025 00:27:39.608] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/tree
+[28May2025 00:27:39.611] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/logs
+[28May2025 00:29:20.131] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[28May2025 00:29:20.131] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 13
+}
+[28May2025 00:29:20.131] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[28May2025 00:29:20.131] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "v_!\")[Wq336vauh<"
+]
+[28May2025 00:29:21.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 00:29:21.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 00:29:53.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_1
+[28May2025 00:29:53.503] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_top_3
+[28May2025 00:29:53.505] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_roots_0
+[28May2025 00:29:53.506] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_0
+[28May2025 00:29:53.506] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_1
+[28May2025 00:29:54.245] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:redstone_torch_trail/trail1
+[28May2025 00:30:30.139] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_turn_0
+[28May2025 00:30:30.140] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_bridge
+[28May2025 00:30:30.140] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_3_0
+[28May2025 00:30:30.143] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/brown_fishing_house
+[28May2025 00:30:30.144] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_straight_0
+[28May2025 00:30:30.144] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_turn_1
+[28May2025 00:30:30.145] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/brown_sorcerer_house
+[28May2025 00:30:30.146] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:decor/lamp_post
+[28May2025 00:30:30.146] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_deadend_nohouse
+[28May2025 00:30:30.146] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_deadend_0
+[28May2025 00:30:30.147] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_brown_3
+[28May2025 00:30:30.147] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_fisherman
+[28May2025 00:30:30.148] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_red_2
+[28May2025 00:30:30.149] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_red_1
+[28May2025 00:30:30.150] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_sorcerer
+[28May2025 00:30:30.150] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_nitwit
+[28May2025 00:30:30.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/lg_brown_house_1
+[28May2025 00:30:30.153] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_brown_2
+[28May2025 00:30:30.153] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_merchant
+[28May2025 00:30:30.155] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_red_3
+[28May2025 00:32:20.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[28May2025 00:33:17.236] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[28May2025 00:33:17.236] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=23593984, y=360, z=352304}"
+}
+[28May2025 00:33:17.236] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[28May2025 00:33:17.236] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[54, 89, -53, -10, -14, 113, 99, -87, -112, 102, 2]"
+]
+[28May2025 00:34:21.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 00:34:21.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 00:37:04.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/downstairs_pool/haunted_house_downstairs
+[28May2025 00:37:11.513] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[28May2025 00:37:35.949] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_deadend_1
+[28May2025 00:37:35.952] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/lg_red_house_1
+[28May2025 00:37:35.955] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_brown_1
+[28May2025 00:37:35.958] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/md_red_house_1
+[28May2025 00:37:35.960] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_gardener
+[28May2025 00:38:46.848] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[28May2025 00:39:15.995] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[28May2025 00:39:16.007] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_1
+[28May2025 00:39:16.008] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_1
+[28May2025 00:39:16.050] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_0
+[28May2025 00:39:16.097] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[28May2025 00:39:16.133] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_5
+[28May2025 00:39:16.142] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_2
+[28May2025 00:39:16.143] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_hoglin_rider_0
+[28May2025 00:39:16.143] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_3_main
+[28May2025 00:39:16.144] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_0
+[28May2025 00:39:16.144] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_0
+[28May2025 00:39:16.145] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_0
+[28May2025 00:39:16.169] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_4
+[28May2025 00:39:16.211] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_1
+[28May2025 00:39:21.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 00:39:21.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 00:39:25.471] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_06 is being run through DFU (hash 63276fa78d533c2e166921682e7c5317ed145426273dbcff045c3f90f00150a1), this will cause launch time delays
+[28May2025 00:39:25.471] [Worker-Main-2/INFO] [ModernFix/]: Instantiating Mojang DFU
+[28May2025 00:39:40.068] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_09
+[28May2025 00:39:54.868] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:altar/altar_01
+[28May2025 00:40:01.451] [Worker-Main-32/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28May2025 00:40:01.451] [Worker-Main-32/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28May2025 00:40:01.452] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction_cramped
+[28May2025 00:40:01.453] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cask_rack
+[28May2025 00:40:01.453] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_turn
+[28May2025 00:40:01.454] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/candle_storage
+[28May2025 00:40:01.455] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/shelf_storage
+[28May2025 00:40:01.455] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage
+[28May2025 00:40:01.456] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cracked_wall_opening
+[28May2025 00:40:01.456] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/jail_cell
+[28May2025 00:40:01.457] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/ledge_casks
+[28May2025 00:40:01.457] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/wall
+[28May2025 00:40:10.616] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_03
+[28May2025 00:40:27.851] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_02
+[28May2025 00:40:33.834] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4384, y=62, z=-1360}
+[28May2025 00:40:33.835] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4347, y=50, z=-1383}
+[28May2025 00:40:33.847] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4384, y=62, z=-1360}
+[28May2025 00:40:33.848] [Worker-Main-32/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4347, y=50, z=-1383}
+[28May2025 00:40:33.851] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4384, y=62, z=-1360}
+[28May2025 00:40:33.853] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4347, y=50, z=-1383}
+[28May2025 00:40:33.853] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4350, y=43, z=-1361}
+[28May2025 00:40:33.854] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4349, y=43, z=-1367}
+[28May2025 00:40:41.772] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4384, y=62, z=-1360}
+[28May2025 00:40:41.775] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4347, y=50, z=-1383}
+[28May2025 00:40:41.776] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4370, y=43, z=-1354}
+[28May2025 00:40:41.777] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4363, y=43, z=-1354}
+[28May2025 00:40:41.788] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4384, y=62, z=-1360}
+[28May2025 00:40:41.792] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4352, y=57, z=-1363}
+[28May2025 00:40:41.792] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4347, y=50, z=-1383}
+[28May2025 00:40:41.794] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4364, y=43, z=-1374}
+[28May2025 00:40:41.795] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4364, y=43, z=-1367}
+[28May2025 00:40:41.795] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4363, y=43, z=-1367}
+[28May2025 00:40:41.795] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4363, y=43, z=-1368}
+[28May2025 00:40:41.796] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4350, y=43, z=-1361}
+[28May2025 00:40:41.796] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4363, y=43, z=-1375}
+[28May2025 00:40:41.799] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4384, y=62, z=-1360}
+[28May2025 00:40:41.802] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4347, y=50, z=-1383}
+[28May2025 00:40:41.802] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4363, y=43, z=-1375}
+[28May2025 00:40:41.803] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4357, y=43, z=-1382}
+[28May2025 00:40:43.323] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4384, y=62, z=-1360}
+[28May2025 00:40:43.325] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4347, y=50, z=-1383}
+[28May2025 00:40:43.657] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4384, y=62, z=-1360}
+[28May2025 00:40:43.660] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4347, y=50, z=-1383}
+[28May2025 00:40:43.662] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4364, y=43, z=-1374}
+[28May2025 00:40:43.663] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4364, y=43, z=-1367}
+[28May2025 00:40:43.663] [Worker-Main-21/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4377, y=43, z=-1367}
+[28May2025 00:40:47.355] [Worker-Main-33/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4384, y=62, z=-1360}
+[28May2025 00:40:47.356] [Worker-Main-33/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4347, y=50, z=-1383}
+[28May2025 00:40:47.357] [Worker-Main-33/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4370, y=43, z=-1354}
+[28May2025 00:40:48.508] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[28May2025 00:40:48.509] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[28May2025 00:40:48.509] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[28May2025 00:40:48.510] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[28May2025 00:40:48.523] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[28May2025 00:40:48.537] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[28May2025 00:40:48.538] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[28May2025 00:40:48.538] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[28May2025 00:40:48.561] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[28May2025 00:40:51.020] [Worker-Main-33/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4384, y=62, z=-1360}
+[28May2025 00:40:52.530] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4384, y=62, z=-1360}
+[28May2025 00:40:52.534] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=4384, y=62, z=-1360}
+[28May2025 00:40:58.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[28May2025 00:41:00.737] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove1
+[28May2025 00:41:00.744] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove2
+[28May2025 00:41:01.071] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_graveyard/small_desert_graveyard_01
