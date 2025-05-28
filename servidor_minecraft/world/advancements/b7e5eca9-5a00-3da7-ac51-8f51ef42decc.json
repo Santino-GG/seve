@@ -93,6 +93,7 @@
       "minecraft:deep_cold_ocean": "2025-05-11 02:23:56 +0000",
       "minecraft:frozen_ocean": "2025-05-11 05:18:17 +0000",
       "minecraft:deep_frozen_ocean": "2025-05-11 05:17:54 +0000",
+      "minecraft:windswept_forest": "2025-05-28 00:53:29 +0000",
       "minecraft:ocean": "2025-05-03 01:19:49 +0000",
       "minecraft:jungle": "2025-05-11 05:06:48 +0000",
       "minecraft:windswept_savanna": "2025-05-11 04:11:17 +0000",
@@ -101,6 +102,7 @@
       "minecraft:old_growth_birch_forest": "2025-05-06 00:23:18 +0000",
       "minecraft:deep_dark": "2025-05-08 01:12:03 +0000",
       "minecraft:meadow": "2025-05-03 01:13:59 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-05-28 00:54:16 +0000",
       "minecraft:savanna": "2025-05-03 01:28:02 +0000",
       "minecraft:plains": "2025-04-30 02:53:39 +0000"
     },
@@ -10055,6 +10057,12 @@
   "netherexp:nether/ghost_mucus": {
     "criteria": {
       "has_item": "2025-05-27 23:23:57 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2025-05-28 00:59:35 +0000"
     },
     "done": true
   },
