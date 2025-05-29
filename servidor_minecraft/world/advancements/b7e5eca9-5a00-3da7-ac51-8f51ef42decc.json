@@ -7407,12 +7407,13 @@
   },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
+      "charm_collector_1": "2025-05-29 21:54:42 +0000",
       "charm_collector_0": "2025-05-07 21:48:47 +0000",
       "charm_collector_4": "2025-05-25 06:17:51 +0000",
       "charm_collector_3": "2025-05-27 00:01:47 +0000",
       "charm_collector_2": "2025-05-07 21:48:47 +0000"
     },
-    "done": false
+    "done": true
   },
   "born_in_chaos_v1:good_demoman": {
     "criteria": {
@@ -10309,6 +10310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-05-29 21:54:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/light_gray_grill_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-29 21:46:46 +0000"
@@ -10585,9 +10592,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_4": "2025-05-29 21:54:42 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/dye_yellow_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-29 21:46:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-29 21:54:42 +0000"
     },
     "done": true
   },
@@ -10624,6 +10643,12 @@
   "netherexp:recipes/bone_blocks/stacked_bones": {
     "criteria": {
       "has_item": "2025-05-29 21:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-05-29 21:54:42 +0000"
     },
     "done": true
   },
@@ -10702,6 +10727,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
     "criteria": {
       "has_glass": "2025-05-29 21:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-05-29 21:54:42 +0000"
     },
     "done": true
   },
