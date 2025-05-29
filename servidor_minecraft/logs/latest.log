@@ -2703,3 +2703,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [
   ")jHSJq\"(.304 qY^PA"
 ]
+[29May2025 21:21:32.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevedo909[/127.5.252.102:38891] logged in with entity id 107 at (553.6042682457124, 92.0, 746.3000000119209)
+[29May2025 21:21:33.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 joined the game
+[29May2025 21:21:33.336] [Server thread/INFO] [Jade/]: Syncing config to kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab)
+[29May2025 21:21:38.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6112ms or 122 ticks behind
+[29May2025 21:21:40.926] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of kevedo909 (18)
+[29May2025 21:21:40.928] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kevedo909
+[29May2025 21:22:05.105] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[29May2025 21:22:06.101] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[29May2025 21:22:06.105] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab) successfully connected to voice chat
+[29May2025 21:27:40.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.16.52.167:39653] logged in with entity id 797 at (2989.035717334855, 81.0, -1783.6936917416622)
+[29May2025 21:27:40.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[29May2025 21:27:40.419] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[29May2025 21:27:43.416] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[29May2025 21:27:43.416] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[29May2025 21:28:12.112] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
