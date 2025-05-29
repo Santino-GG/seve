@@ -2718,3 +2718,115 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29May2025 21:27:43.416] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
 [29May2025 21:27:43.416] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
 [29May2025 21:28:12.112] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[29May2025 21:28:13.177] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[29May2025 21:28:13.178] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[29May2025 21:28:20.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> o no hermano
+[29May2025 21:28:21.528] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[29May2025 21:28:21.529] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 11001
+}
+[29May2025 21:28:21.529] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[29May2025 21:28:21.529] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "H{=7qtAS304/V;"
+]
+[29May2025 21:28:42.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 fell from a high place
+[29May2025 21:29:05.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> gonza
+[29May2025 21:29:16.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> la guerra a comenzado
+[29May2025 21:29:45.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> en un mundo muy cuadrado
+[29May2025 21:30:12.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> queres ser mi compa encubierto
+[29May2025 21:30:28.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> que?
+[29May2025 21:30:50.461] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[29May2025 21:30:50.462] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 19
+}
+[29May2025 21:30:50.462] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[29May2025 21:30:50.462] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Me:eGT3]w304I4"
+]
+[29May2025 21:30:51.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> si queres traicionar a lauti y a agus
+[29May2025 21:31:16.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> si o no
+[29May2025 21:31:18.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> si
+[29May2025 21:31:18.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> 10
+[29May2025 21:31:24.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> a okey
+[29May2025 21:31:47.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Grizzly Bear
+[29May2025 21:32:13.118] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[29May2025 21:32:13.119] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 12645
+}
+[29May2025 21:32:13.119] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[29May2025 21:32:13.119] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ";1*J%<]Bs:$If3304/V;"
+]
+[29May2025 21:33:00.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> a quien le vas a reenviar esto?
+[29May2025 21:33:52.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> soy yo o la lluvia combina con el entorno xd
+[29May2025 21:34:03.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> lit
+[29May2025 21:36:00.855] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[29May2025 21:38:23.960] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[29May2025 21:38:23.960] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 62
+}
+[29May2025 21:38:23.961] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[29May2025 21:38:23.961] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "7![=!4~Xa\\ukFF\"k|a304%cDK"
+]
+[29May2025 21:39:16.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Skeleton
+[29May2025 21:40:30.822] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[29May2025 21:40:30.823] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 223987
+}
+[29May2025 21:40:30.823] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[29May2025 21:40:30.823] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "E<pum>k`9O>304s0p: "
+]
+[29May2025 21:41:39.547] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[29May2025 21:41:39.548] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 463
+}
+[29May2025 21:41:39.548] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[29May2025 21:41:39.548] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "D'Sry:c304&kc"
+]
+[29May2025 21:42:41.216] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[29May2025 21:42:41.217] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 62
+}
+[29May2025 21:42:41.217] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[29May2025 21:42:41.217] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "2ga|Ab`QATnbh304Iw:mu\\"
+]
+[29May2025 21:42:55.386] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9102, l='ServerLevel[world]', x=238.12, y=-256.00, z=163.73] died, message: 'Unemployed was killed'
+[29May2025 21:43:08.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Grizzly Bear
+[29May2025 21:44:15.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lautiABC[/127.91.37.56:40363] logged in with entity id 9347 at (-1812.6165301525814, 68.0, 1315.8661521791944)
+[29May2025 21:44:15.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC joined the game
+[29May2025 21:44:15.843] [Server thread/INFO] [Jade/]: Syncing config to lautiABC (71cf154b-6e54-326e-9700-98d60017873d)
+[29May2025 21:44:20.671] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lautiABC (18)
+[29May2025 21:44:20.672] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lautiABC
+[29May2025 21:45:05.486] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 71cf154b-6e54-326e-9700-98d60017873d
+[29May2025 21:45:06.517] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 71cf154b-6e54-326e-9700-98d60017873d
+[29May2025 21:45:06.517] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lautiABC (71cf154b-6e54-326e-9700-98d60017873d) successfully connected to voice chat
+[29May2025 21:45:26.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> hola
+[29May2025 21:45:31.468] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[29May2025 21:45:31.469] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 910259
+}
+[29May2025 21:45:31.469] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[29May2025 21:45:31.469] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "BF+M@C2]J0ex304^5K"
+]
+[29May2025 21:47:39.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> hola

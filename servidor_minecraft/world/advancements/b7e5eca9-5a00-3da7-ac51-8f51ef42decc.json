@@ -1643,6 +1643,7 @@
       "rotten_flesh": "2025-05-04 02:21:20 +0000",
       "suspicious_stew": "2025-05-11 02:50:34 +0000",
       "glow_berries": "2025-05-11 00:14:36 +0000",
+      "dried_kelp": "2025-05-29 21:37:36 +0000",
       "melon_slice": "2025-05-04 03:26:05 +0000",
       "golden_carrot": "2025-05-07 23:21:17 +0000",
       "cooked_chicken": "2025-05-04 03:09:29 +0000",
@@ -4525,6 +4526,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "barrel": "2025-05-29 21:39:35 +0000",
       "huntingpost": "2025-05-03 05:03:26 +0000",
       "oceanographytable": "2025-05-04 02:01:43 +0000",
       "fletchingtable": "2025-05-04 03:30:25 +0000",
@@ -10061,21 +10063,87 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
-    "criteria": {
-      "requirement": "2025-05-28 00:59:35 +0000"
-    },
-    "done": true
-  },
   "graveyard:graveyard/middle_bone_staff": {
     "criteria": {
       "middle_bone_staff": "2025-05-28 00:41:28 +0000"
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2025-05-28 00:59:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-05-28 01:15:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-29 21:36:15 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-05-29 21:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-29 21:36:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-29 21:36:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-05-29 21:36:20 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-05-29 21:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-29 21:36:28 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-05-29 21:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-05-29 21:39:37 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/oceanography_table": {
+    "criteria": {
+      "has_barrel": "2025-05-29 21:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-29 21:36:15 +0000"
     },
     "done": true
   },
