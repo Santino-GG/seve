@@ -3090,3 +3090,71 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29May2025 23:28:01.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> hola lauti
 [29May2025 23:29:01.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lautiABC> dt tranqui
 [29May2025 23:29:09.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> que
+[29May2025 23:34:04.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YOUNGDINO07[/127.54.116.65:60945] logged in with entity id 56030 at (-1813.4971460716868, 68.0, 1316.6608273084291)
+[29May2025 23:34:04.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 joined the game
+[29May2025 23:34:04.448] [Server thread/INFO] [Jade/]: Syncing config to YOUNGDINO07 (ed45ce55-0981-3ac0-876f-3677ed698d8a)
+[29May2025 23:34:06.221] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of YOUNGDINO07 (18)
+[29May2025 23:34:06.221] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to YOUNGDINO07
+[29May2025 23:34:27.730] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed45ce55-0981-3ac0-876f-3677ed698d8a
+[29May2025 23:34:28.733] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed45ce55-0981-3ac0-876f-3677ed698d8a
+[29May2025 23:34:28.733] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player YOUNGDINO07 (ed45ce55-0981-3ac0-876f-3677ed698d8a) successfully connected to voice chat
+[29May2025 23:34:56.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> lauti?
+[29May2025 23:35:08.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lautiABC> hece grupo para hablar
+[29May2025 23:35:23.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> dale
+[29May2025 23:35:26.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> aya
+[29May2025 23:35:32.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> es la misma contra
+[29May2025 23:36:19.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> hola
+[29May2025 23:36:25.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> sali de grupo
+[29May2025 23:36:48.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> sali del grupo
+[29May2025 23:36:50.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> XD
+[29May2025 23:36:51.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> sal del grupo
+[29May2025 23:36:57.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> o xx
+[29May2025 23:37:12.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 lost connection: Timed out
+[29May2025 23:37:12.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 left the game
+[29May2025 23:37:12.950] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client YOUNGDINO07
+[29May2025 23:37:19.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Quadrocopter (vehicle of Santix15) moved wrongly! 0.4636039532919085
+[29May2025 23:37:19.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Quadrocopter (vehicle of Santix15) moved wrongly! 0.7005888196990782
+[29May2025 23:37:19.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Quadrocopter (vehicle of Santix15) moved wrongly! 0.9357561510771575
+[29May2025 23:37:19.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Quadrocopter (vehicle of Santix15) moved wrongly! 1.163369683773908
+[29May2025 23:37:19.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Quadrocopter (vehicle of Santix15) moved wrongly! 1.3799054543153488
+[29May2025 23:37:19.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Quadrocopter (vehicle of Santix15) moved wrongly! 1.5834147747711278
+[29May2025 23:37:19.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Quadrocopter (vehicle of Santix15) moved wrongly! 1.7731090690551854
+[29May2025 23:37:19.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Quadrocopter (vehicle of Santix15) moved wrongly! 1.9487462343105082
+[29May2025 23:37:40.319] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d timed out
+[29May2025 23:37:40.319] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lautiABC
+[29May2025 23:37:40.319] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lautiABC
+[29May2025 23:37:43.097] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 71cf154b-6e54-326e-9700-98d60017873d
+[29May2025 23:37:44.019] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 71cf154b-6e54-326e-9700-98d60017873d
+[29May2025 23:37:44.020] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lautiABC (71cf154b-6e54-326e-9700-98d60017873d) successfully connected to voice chat
+[29May2025 23:37:44.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC moved too quickly! 0.5633272303883814,-0.4938648978937863,-10.093647143509997
+[29May2025 23:37:51.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 caught lautiABC in sculk
+[29May2025 23:38:04.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YOUNGDINO07[/127.54.116.65:48403] logged in with entity id 58020 at (-1822.9192263366645, 69.0, 1308.1705095496488)
+[29May2025 23:38:04.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 joined the game
+[29May2025 23:38:04.984] [Server thread/INFO] [Jade/]: Syncing config to YOUNGDINO07 (ed45ce55-0981-3ac0-876f-3677ed698d8a)
+[29May2025 23:38:05.305] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of YOUNGDINO07 (18)
+[29May2025 23:38:05.305] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to YOUNGDINO07
+[29May2025 23:38:10.130] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed45ce55-0981-3ac0-876f-3677ed698d8a
+[29May2025 23:38:11.129] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed45ce55-0981-3ac0-876f-3677ed698d8a
+[29May2025 23:38:11.129] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player YOUNGDINO07 (ed45ce55-0981-3ac0-876f-3677ed698d8a) successfully connected to voice chat
+[29May2025 23:38:17.455] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[29May2025 23:38:27.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> odio este internet de verga
+[29May2025 23:38:29.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lautiABC> agus crea grupo
+[29May2025 23:38:33.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> va
+[29May2025 23:38:40.208] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[29May2025 23:39:39.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> te gusto los tentaculos lauti
+[29May2025 23:40:42.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Restless Spirit
+[29May2025 23:40:53.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=58, y=65, z=25}
+[29May2025 23:40:53.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=58, y=65, z=25}
+[29May2025 23:40:54.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=58, y=65, z=25}
+[29May2025 23:40:54.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=58, y=65, z=25}
+[29May2025 23:40:54.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=58, y=65, z=25}
+[29May2025 23:40:54.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=58, y=65, z=25}
+[29May2025 23:40:55.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=58, y=65, z=25}
+[29May2025 23:40:55.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=58, y=65, z=25}
+[29May2025 23:40:55.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=58, y=65, z=25}
+[29May2025 23:40:55.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=58, y=65, z=25}
+[29May2025 23:40:55.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=58, y=65, z=25}
+[29May2025 23:40:56.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=57, y=65, z=27}
+[29May2025 23:40:56.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=58, y=65, z=27}
+[29May2025 23:40:56.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=61, y=66, z=27}
+[29May2025 23:40:56.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=56, y=66, z=27}

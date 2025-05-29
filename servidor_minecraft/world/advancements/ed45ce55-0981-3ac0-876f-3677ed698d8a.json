@@ -3375,6 +3375,7 @@
       "rotten_flesh": "2025-05-10 02:18:59 +0000",
       "melon_slice": "2025-05-06 21:07:30 +0000",
       "golden_carrot": "2025-05-24 01:50:05 +0000",
+      "beetroot": "2025-05-29 23:38:13 +0000",
       "cooked_salmon": "2025-05-24 00:37:12 +0000",
       "carrot": "2025-05-24 00:03:51 +0000"
     },
@@ -6332,12 +6333,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-05-27 23:25:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
     "criteria": {
       "has_chicken": "2025-05-27 22:51:38 +0000"
@@ -6350,9 +6345,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-27 23:25:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-05-27 23:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-29 23:37:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-05-29 23:37:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-29 23:37:08 +0000"
     },
     "done": true
   },
