@@ -3158,3 +3158,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29May2025 23:40:56.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=58, y=65, z=27}
 [29May2025 23:40:56.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=61, y=66, z=27}
 [29May2025 23:40:56.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=56, y=66, z=27}
+[29May2025 23:42:50.098] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/61353, l='ServerLevel[world]', x=-287.32, y=96.00, z=530.55] died, message: 'Farmer hit the ground too hard'
+[29May2025 23:42:56.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 moved too quickly! -9.716277812436829,-0.5800000131130219,-3.512409589324818
+[29May2025 23:43:30.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 lost connection: Disconnected
+[29May2025 23:43:30.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 left the game
+[29May2025 23:43:30.504] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client YOUNGDINO07
+[29May2025 23:43:44.661] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YOUNGDINO07[/127.54.116.65:54397] logged in with entity id 62225 at (-366.7003345174665, 80.0, 81.93394382080622)
+[29May2025 23:43:44.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 joined the game
+[29May2025 23:43:44.676] [Server thread/INFO] [Jade/]: Syncing config to YOUNGDINO07 (ed45ce55-0981-3ac0-876f-3677ed698d8a)
+[29May2025 23:43:45.160] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of YOUNGDINO07 (18)
+[29May2025 23:43:45.160] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to YOUNGDINO07
+[29May2025 23:43:47.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC has made the advancement [First Village]
+[29May2025 23:44:08.527] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed45ce55-0981-3ac0-876f-3677ed698d8a
+[29May2025 23:44:09.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 lost connection: Disconnected
+[29May2025 23:44:09.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 left the game
+[29May2025 23:44:09.309] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client YOUNGDINO07
+[29May2025 23:44:49.599] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[29May2025 23:44:49.600] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1971324
+}
+[29May2025 23:44:49.600] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[29May2025 23:44:49.600] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "bF2~w.cr#EB`304s"
+]
+[29May2025 23:45:31.437] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/63067, l='ServerLevel[world]', x=-271.24, y=-256.00, z=1078.48] died, message: 'Unemployed was killed'
