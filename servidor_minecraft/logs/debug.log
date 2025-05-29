@@ -9678,3 +9678,66 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 ]
 [29May2025 21:47:31.310] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748555251287
 [29May2025 21:47:39.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> hola
+[29May2025 21:48:40.577] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of lautiABC: {disabled=false, disconnected=false, uuid=71cf154b-6e54-326e-9700-98d60017873d, name=lautiABC, group=7e1e07b4-7231-4332-88bf-1787220d96ce}
+[29May2025 21:49:32.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 21:49:32.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 21:49:53.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> eu
+[29May2025 21:49:56.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> lauti
+[29May2025 21:50:02.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> cual es la contra?
+[29May2025 21:50:03.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lautiABC> q pss
+[29May2025 21:50:08.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> susurrame
+[29May2025 21:50:14.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lautiABC> te la ps por wha
+[29May2025 21:50:25.934] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[29May2025 21:50:29.104] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of kevedo909: {disabled=false, disconnected=false, uuid=380318f8-90c8-30a1-b2c2-428693a3e9ab, name=kevedo909, group=7e1e07b4-7231-4332-88bf-1787220d96ce}
+[29May2025 21:50:46.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> habla
+[29May2025 21:51:13.280] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[29May2025 21:51:52.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Lorem Ipsum]
+[29May2025 21:51:52.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [The Journey Begins]
+[29May2025 21:52:06.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[29May2025 21:54:09.831] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_11
+[29May2025 21:54:32.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 21:54:32.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 21:54:42.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has completed the challenge [Charm Collector]
+[29May2025 21:54:56.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> xd
+[29May2025 21:55:16.589] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[29May2025 21:55:16.590] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 100
+}
+[29May2025 21:55:16.590] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[29May2025 21:55:16.590] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<naT~0]E304\"#"
+]
+[29May2025 21:56:12.432] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_02
+[29May2025 21:56:27.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC moved too quickly! -1.5306682647633352,2.84029343414187,9.507515437248912
+[29May2025 21:56:27.586] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/crashed_carriage
+[29May2025 21:57:11.617] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[29May2025 21:57:11.623] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[29May2025 21:57:11.624] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[29May2025 21:57:11.626] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[29May2025 21:57:11.627] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[29May2025 21:57:11.629] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[29May2025 21:57:11.632] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[29May2025 21:57:11.634] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[29May2025 21:57:11.638] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[29May2025 21:57:11.640] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[29May2025 21:57:11.641] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[29May2025 21:57:11.643] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[29May2025 21:57:11.646] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[29May2025 21:57:11.649] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[29May2025 21:57:11.652] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[29May2025 21:57:11.654] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[29May2025 21:57:11.655] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[29May2025 21:57:11.656] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[29May2025 21:57:11.664] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[29May2025 21:57:11.669] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[29May2025 21:57:11.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/savanna/savanna_engineer
+[29May2025 21:57:11.821] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/savanna/savanna_oceanographer
+[29May2025 21:57:11.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/savanna/savanna_florist
+[29May2025 21:57:11.829] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/savanna/savanna_hunter
+[29May2025 21:57:14.812] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[29May2025 21:57:14.829] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[29May2025 21:57:14.842] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
+[29May2025 21:57:52.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> cheche lauti
+[29May2025 21:57:55.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> habla gay

@@ -2830,3 +2830,28 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "BF+M@C2]J0ex304^5K"
 ]
 [29May2025 21:47:39.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> hola
+[29May2025 21:49:53.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> eu
+[29May2025 21:49:56.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> lauti
+[29May2025 21:50:02.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> cual es la contra?
+[29May2025 21:50:03.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lautiABC> q pss
+[29May2025 21:50:08.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> susurrame
+[29May2025 21:50:14.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lautiABC> te la ps por wha
+[29May2025 21:50:46.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> habla
+[29May2025 21:51:13.280] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[29May2025 21:51:52.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Lorem Ipsum]
+[29May2025 21:51:52.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [The Journey Begins]
+[29May2025 21:54:42.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has completed the challenge [Charm Collector]
+[29May2025 21:54:56.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> xd
+[29May2025 21:55:16.589] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[29May2025 21:55:16.590] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 100
+}
+[29May2025 21:55:16.590] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[29May2025 21:55:16.590] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<naT~0]E304\"#"
+]
+[29May2025 21:56:27.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC moved too quickly! -1.5306682647633352,2.84029343414187,9.507515437248912
+[29May2025 21:57:52.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> cheche lauti
+[29May2025 21:57:55.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> habla gay
