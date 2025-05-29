@@ -3014,3 +3014,58 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29May2025 22:29:17.257] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=61, y=72, z=35}
 [29May2025 22:29:17.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=61, y=72, z=33}
 [29May2025 22:29:17.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=61, y=73, z=32}
+[29May2025 22:31:55.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> ya me voy
+[29May2025 22:31:57.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> chhau
+[29May2025 22:31:59.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 lost connection: Disconnected
+[29May2025 22:31:59.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 left the game
+[29May2025 22:31:59.363] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kevedo909
+[29May2025 22:33:03.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lautiABC> gonza
+[29May2025 22:37:18.505] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[29May2025 22:37:40.749] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[29May2025 22:37:43.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lautiABC) moved too quickly! -2.44510926654948,-1.2032016641683185E-5,9.697304019093053
+[29May2025 22:37:43.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lautiABC) moved too quickly! -2.6627969873939037,-1.3034684727131207E-5,10.503775175269311
+[29May2025 22:37:43.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lautiABC) moved too quickly! -2.8827823192104916,-1.4037352812579229E-5,11.309875639984512
+[29May2025 22:37:43.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lautiABC) moved too quickly! -3.104910714989728,-1.5040020898027251E-5,12.115633980498842
+[29May2025 22:37:43.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lautiABC) moved too quickly! -3.329012589169679,-1.6042688997686128E-5,12.921084451691286
+[29May2025 22:37:43.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lautiABC) moved too quickly! -3.5549175139312865,-1.7045357097345004E-5,13.726262765363572
+[29May2025 22:37:43.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lautiABC) moved too quickly! -3.782452155209512,-1.804802519700388E-5,14.531206622322543
+[29May2025 22:37:43.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lautiABC) moved too quickly! -4.011450256548187,-1.9050693296662757E-5,15.335952652147625
+[29May2025 22:37:43.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lautiABC) moved too quickly! -4.2417420931492416,-2.0053361396321634E-5,16.14053939006544
+[29May2025 22:37:43.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lautiABC) moved too quickly! -4.473167162159143,-2.105602949598051E-5,16.945003447779072
+[29May2025 22:37:43.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lautiABC) moved too quickly! -4.70556816053454,-2.2058697609850242E-5,17.749381175658982
+[29May2025 22:37:43.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lautiABC) moved too quickly! -4.938797997030861,-2.3061365723719973E-5,18.553706495852794
+[29May2025 22:37:44.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lautiABC) moved too quickly! -2.942870748707719,-1.3034685281354541E-5,10.467568774133042
+[29May2025 22:37:44.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lautiABC) moved too quickly! -3.177363666006613,-1.4037353395224272E-5,11.27187918034656
+[29May2025 22:37:44.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lautiABC) moved too quickly! -3.4123013469343277,-1.5040021509094004E-5,12.076224767193708
+[29May2025 22:37:44.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lautiABC) moved too quickly! -3.647567334047835,-1.6042689622963735E-5,12.880632016448544
+[29May2025 22:37:44.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lautiABC) moved too quickly! -3.883060113023248,-1.7045357736833466E-5,13.685123300054556
+[29May2025 22:37:44.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lautiABC) moved too quickly! -4.118685911206967,0.0024819472616570692,14.489718934969915
+[29May2025 22:38:17.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC moved wrongly!
+[29May2025 22:39:20.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC fell from a high place
+[29May2025 22:44:15.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has reached the goal [Dark Blacksmith]
+[29May2025 22:44:37.865] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[29May2025 22:44:37.865] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 203436849
+}
+[29May2025 22:44:37.865] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[29May2025 22:44:37.865] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "l=AU-ZUD(vmC304#h1' u"
+]
+[29May2025 22:47:41.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC moved too quickly! -8.963962599058789,-2.9868319865636863,3.411981263134976
+[29May2025 22:48:27.998] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[29May2025 22:48:28.326] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d timed out
+[29May2025 22:48:28.326] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lautiABC
+[29May2025 22:48:28.326] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lautiABC
+[29May2025 22:48:41.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC moved too quickly! -0.44625860405255935,2.747796659746271,9.757356259959238
+[29May2025 22:48:41.691] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 71cf154b-6e54-326e-9700-98d60017873d
+[29May2025 22:48:42.696] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 71cf154b-6e54-326e-9700-98d60017873d
+[29May2025 22:48:42.697] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lautiABC (71cf154b-6e54-326e-9700-98d60017873d) successfully connected to voice chat
+[29May2025 22:49:14.558] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d timed out
+[29May2025 22:49:14.558] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lautiABC
+[29May2025 22:49:14.558] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lautiABC
+[29May2025 22:49:55.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC lost connection: Disconnected
+[29May2025 22:49:55.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC left the game
+[29May2025 22:49:55.098] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautiABC
+[29May2025 22:49:55.153] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

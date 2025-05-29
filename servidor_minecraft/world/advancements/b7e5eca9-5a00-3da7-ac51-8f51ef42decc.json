@@ -10594,7 +10594,8 @@
   },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
-      "squireofthe_dark_lord_4": "2025-05-29 21:54:42 +0000"
+      "squireofthe_dark_lord_4": "2025-05-29 21:54:42 +0000",
+      "squireofthe_dark_lord_0": "2025-05-29 22:44:15 +0000"
     },
     "done": false
   },
@@ -11165,6 +11166,12 @@
   "refurbished_furniture:recipes/decorations/crimson_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-05-29 21:46:46 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_blacksmith": {
+    "criteria": {
+      "dark_blacksmith_0": "2025-05-29 22:44:15 +0000"
     },
     "done": true
   },

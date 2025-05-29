@@ -67,6 +67,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-05-29 22:33:39 +0000",
+      "minecraft:sunflower_plains": "2025-05-29 22:33:20 +0000",
       "minecraft:birch_forest": "2025-05-27 23:46:34 +0000",
       "minecraft:bamboo_jungle": "2025-05-29 21:55:13 +0000",
       "minecraft:beach": "2025-05-26 23:22:22 +0000",
@@ -4099,6 +4101,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-05-29 22:34:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-29 22:20:38 +0000"
@@ -4450,6 +4458,12 @@
   "cfm:recipes/decorations/gray_cooler": {
     "criteria": {
       "has_chest": "2025-05-29 22:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-05-29 22:34:27 +0000"
     },
     "done": true
   },
