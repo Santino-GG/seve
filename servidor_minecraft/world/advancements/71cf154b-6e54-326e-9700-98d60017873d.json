@@ -4782,11 +4782,17 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+  "morevillagers:first_village": {
     "criteria": {
-      "has_rotten_flesh": "2025-05-29 23:47:32 +0000"
+      "plains": "2025-05-29 23:43:47 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "plains": "2025-05-29 23:43:47 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/baked_potato_from_grill_cooking": {
     "criteria": {
@@ -4800,39 +4806,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/diving_board": {
-    "criteria": {
-      "has_wheat": "2025-05-29 23:43:54 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:first_village": {
-    "criteria": {
-      "plains": "2025-05-29 23:43:47 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
       "has_ingredient": "2025-05-29 23:43:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-05-29 23:43:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-05-29 23:43:54 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/ash_brick": {
-    "criteria": {
-      "forge:ash": "2025-05-29 23:57:56 +0000"
     },
     "done": true
   },
@@ -4842,33 +4818,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2025-05-29 23:43:54 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/door_mat": {
-    "criteria": {
-      "has_wheat": "2025-05-29 23:43:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dog_food": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-29 23:47:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-05-29 23:43:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
-    "criteria": {
-      "has_wheat": "2025-05-29 23:43:54 +0000"
     },
     "done": true
   },
@@ -4884,11 +4836,59 @@
     },
     "done": true
   },
-  "morevillagers:all_villages": {
+  "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
-      "plains": "2025-05-29 23:43:47 +0000"
+      "has_potato": "2025-05-29 23:43:52 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-29 23:43:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-29 23:43:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-05-29 23:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-29 23:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-29 23:43:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-05-29 23:43:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-05-29 23:43:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-05-29 23:43:54 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
@@ -4902,15 +4902,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
+  "supplementaries:recipes/daub": {
     "criteria": {
-      "has_potato": "2025-05-29 23:43:52 +0000"
+      "supplementaries:straw": "2025-05-29 23:43:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
     "criteria": {
-      "has_carrot": "2025-05-29 23:43:52 +0000"
+      "has_rotten_flesh": "2025-05-29 23:47:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-29 23:47:32 +0000"
     },
     "done": true
   },
@@ -4920,15 +4926,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/daub": {
+  "supplementaries:recipes/ash_brick": {
     "criteria": {
-      "supplementaries:straw": "2025-05-29 23:43:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-29 23:43:52 +0000"
+      "forge:ash": "2025-05-29 23:57:56 +0000"
     },
     "done": true
   },

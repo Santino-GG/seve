@@ -2501,3 +2501,61 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30May2025 23:18:56.967] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ed45ce55-0981-3ac0-876f-3677ed698d8a
 [30May2025 23:18:57.971] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ed45ce55-0981-3ac0-876f-3677ed698d8a
 [30May2025 23:18:57.971] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player YOUNGDINO07 (ed45ce55-0981-3ac0-876f-3677ed698d8a) successfully connected to voice chat
+[30May2025 23:19:53.758] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[30May2025 23:19:53.759] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 84
+}
+[30May2025 23:19:53.759] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[30May2025 23:19:53.760] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "^\\gqfUy1FY7x352q "
+]
+[30May2025 23:21:34.633] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lautiABC[/127.91.37.56:41253] logged in with entity id 2899 at (-530.7517397743769, 63.0, 695.7150620631186)
+[30May2025 23:21:34.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC joined the game
+[30May2025 23:21:34.657] [Server thread/INFO] [Jade/]: Syncing config to lautiABC (71cf154b-6e54-326e-9700-98d60017873d)
+[30May2025 23:21:38.070] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lautiABC (18)
+[30May2025 23:21:38.071] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lautiABC
+[30May2025 23:22:02.423] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevedo909[/127.5.252.102:39741] logged in with entity id 3309 at (473.09981005445195, 66.0, 314.5396784805955)
+[30May2025 23:22:02.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 joined the game
+[30May2025 23:22:02.441] [Server thread/INFO] [Jade/]: Syncing config to kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab)
+[30May2025 23:22:05.871] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 71cf154b-6e54-326e-9700-98d60017873d
+[30May2025 23:22:06.868] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 71cf154b-6e54-326e-9700-98d60017873d
+[30May2025 23:22:06.868] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lautiABC (71cf154b-6e54-326e-9700-98d60017873d) successfully connected to voice chat
+[30May2025 23:22:12.536] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of kevedo909 (18)
+[30May2025 23:22:12.537] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kevedo909
+[30May2025 23:22:47.845] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4088, l='ServerLevel[world]', x=-271.24, y=-256.00, z=1078.48] died, message: 'Unemployed was killed'
+[30May2025 23:22:50.318] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[30May2025 23:22:51.351] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[30May2025 23:22:51.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab) successfully connected to voice chat
+[30May2025 23:23:01.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Grizzly Bear
+[30May2025 23:23:08.913] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[30May2025 23:24:00.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> unite
+[30May2025 23:24:09.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> agus y aluti
+[30May2025 23:24:20.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> quien esta en el server?
+[30May2025 23:24:25.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> YO
+[30May2025 23:24:39.408] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[30May2025 23:24:39.409] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 57657
+}
+[30May2025 23:24:39.409] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[30May2025 23:24:39.409] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "D?=brh~^bn464:|lK"
+]
+[30May2025 23:24:50.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was blown up by Creeper
+[30May2025 23:25:29.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc timed out
+[30May2025 23:25:29.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lobo3224
+[30May2025 23:25:29.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[30May2025 23:25:47.471] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[30May2025 23:25:49.476] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[30May2025 23:25:49.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[30May2025 23:26:22.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> wacho
+[30May2025 23:26:27.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> estoy re lag
+[30May2025 23:26:36.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Hollow Soldier
+[30May2025 23:26:49.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[30May2025 23:27:11.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Nightmare Stalker
+[30May2025 23:27:29.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[30May2025 23:27:32.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC was mauled by Necromancer's undead
+[30May2025 23:27:37.843] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7231, l='ServerLevel[world]', x=-271.24, y=-256.00, z=1078.48] died, message: 'Unemployed was killed'
