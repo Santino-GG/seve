@@ -10496,5 +10496,11 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_grottol_silk_touch": {
+    "criteria": {
+      "steal_crystal": "2025-05-30 00:16:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
