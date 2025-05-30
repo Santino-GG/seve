@@ -10388,6 +10388,7 @@
   },
   "illageandspillage:kill_all_iands": {
     "criteria": {
+      "illageandspillage:magispeller": "2025-05-30 23:44:11 +0000",
       "illageandspillage:spiritcaller": "2025-05-25 06:14:57 +0000",
       "illageandspillage:preserver": "2025-05-25 05:46:35 +0000",
       "illageandspillage:absorber": "2025-05-26 23:37:59 +0000",
@@ -10499,6 +10500,12 @@
   "mowziesmobs:kill_grottol_silk_touch": {
     "criteria": {
       "steal_crystal": "2025-05-30 00:16:57 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_magi": {
+    "criteria": {
+      "requirement": "2025-05-30 23:44:11 +0000"
     },
     "done": true
   },
