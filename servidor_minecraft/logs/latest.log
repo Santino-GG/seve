@@ -63,3 +63,59 @@
 [30May2025 00:32:19.206] [Server thread/INFO] [Jade/]: Syncing config to Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c)
 [30May2025 00:32:20.724] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nacho_cgod (18)
 [30May2025 00:32:20.724] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nacho_cgod
+[30May2025 00:33:17.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod lost connection: Timed out
+[30May2025 00:33:17.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod left the game
+[30May2025 00:33:17.244] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nacho_cgod
+[30May2025 00:33:43.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nacho_cgod[/127.85.28.162:60269] logged in with entity id 74564 at (-295.27601326312083, 54.0, 1113.751635596908)
+[30May2025 00:33:43.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod joined the game
+[30May2025 00:33:43.197] [Server thread/INFO] [Jade/]: Syncing config to Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c)
+[30May2025 00:33:44.143] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nacho_cgod (18)
+[30May2025 00:33:44.143] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nacho_cgod
+[30May2025 00:34:11.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> nose donde estoy
+[30May2025 00:34:30.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> tp
+[30May2025 00:34:34.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> xd?¡
+[30May2025 00:34:41.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod lost connection: Timed out
+[30May2025 00:34:41.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod left the game
+[30May2025 00:34:41.203] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nacho_cgod
+[30May2025 00:34:41.247] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30May2025 00:35:18.704] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nacho_cgod[/127.85.28.162:36063] logged in with entity id 74763 at (-295.27601326312083, 54.0, 1113.751635596908)
+[30May2025 00:35:18.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod joined the game
+[30May2025 00:35:18.757] [Server thread/INFO] [Jade/]: Syncing config to Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c)
+[30May2025 00:35:19.142] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nacho_cgod (18)
+[30May2025 00:35:19.142] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nacho_cgod
+[30May2025 00:35:57.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nacho_cgod> ttttttttttt
+[30May2025 00:36:16.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod lost connection: Timed out
+[30May2025 00:36:16.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod left the game
+[30May2025 00:36:16.841] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nacho_cgod
+[30May2025 00:36:31.477] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[30May2025 00:36:31.478] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 103
+}
+[30May2025 00:36:31.478] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[30May2025 00:36:31.478] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ",H*mp:UdC~]D7[N336(?P<lR5g"
+]
+[30May2025 00:38:09.152] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nacho_cgod[/127.85.28.162:52093] logged in with entity id 75154 at (-295.27601326312083, 54.0, 1113.751635596908)
+[30May2025 00:38:09.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod joined the game
+[30May2025 00:38:09.194] [Server thread/INFO] [Jade/]: Syncing config to Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c)
+[30May2025 00:38:10.130] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nacho_cgod (18)
+[30May2025 00:38:10.131] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nacho_cgod
+[30May2025 00:39:01.427] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae timed out
+[30May2025 00:39:01.427] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Santix15
+[30May2025 00:39:01.427] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[30May2025 00:39:07.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod lost connection: Timed out
+[30May2025 00:39:07.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod left the game
+[30May2025 00:39:07.291] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nacho_cgod
+[30May2025 00:39:38.928] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[30May2025 00:39:39.990] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[30May2025 00:39:39.991] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[30May2025 00:39:42.654] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nacho_cgod[/127.85.28.162:44393] logged in with entity id 75287 at (-295.27601326312083, 54.0, 1113.751635596908)
+[30May2025 00:39:42.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod joined the game
+[30May2025 00:39:42.698] [Server thread/INFO] [Jade/]: Syncing config to Nacho_cgod (53e7374b-5e04-335c-acba-f45d6acb5e7c)
+[30May2025 00:39:44.431] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nacho_cgod (18)
+[30May2025 00:39:44.431] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nacho_cgod
+[30May2025 00:40:40.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nacho_cgod lost connection: Timed out
+[30May2025 00:40:40.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nacho_cgod left the game
+[30May2025 00:40:40.793] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nacho_cgod
