@@ -22,3 +22,27 @@
   "<partial numeric data>",
   "[-59, 14, 119, 0, 57, -23, -119, -124, -4, 42, 45]"
 ]
+[30May2025 00:05:25.279] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[30May2025 00:05:25.279] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 115
+}
+[30May2025 00:05:25.279] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[30May2025 00:05:25.280] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "!\"(O*I^8OZ4#S(9304k@wnN{"
+]
+[30May2025 00:09:22.000] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC lost connection: Disconnected
+[30May2025 00:09:22.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC left the game
+[30May2025 00:09:22.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC was slain by Otter
+[30May2025 00:09:22.002] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautiABC
+[30May2025 00:12:05.817] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[30May2025 00:12:05.818] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 31910288
+}
+[30May2025 00:12:05.818] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[30May2025 00:12:05.818] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "m^f(>_WX+304/ViUd:"
+]
