@@ -201,3 +201,29 @@
   "hbtB$&464K]&5Z`)B"
 ]
 [31May2025 00:20:51.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> está muy bueno el regalito
+[31May2025 00:21:31.036] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/77457, l='ServerLevel[world]', x=200.81, y=-256.00, z=180.26] died, message: 'Unemployed was killed'
+[31May2025 00:23:29.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC moved wrongly!
+[31May2025 00:27:39.348] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[31May2025 00:27:39.349] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 13546
+}
+[31May2025 00:27:39.349] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[31May2025 00:27:39.349] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "DCX,X?*JzE464$/Y$Q"
+]
+[31May2025 00:29:32.669] [Worker-Main-29/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3380, y=-1, z=1564}
+[31May2025 00:29:32.688] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3411, y=-1, z=1564}
+[31May2025 00:29:39.314] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3473, y=-10, z=1566}
+[31May2025 00:30:12.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
+[31May2025 00:30:12.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[31May2025 00:30:12.805] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[31May2025 00:30:22.485] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.87.163.24:49187] logged in with entity id 86227 at (-1592.699999988079, 75.0, 2485.300000011921)
+[31May2025 00:30:22.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[31May2025 00:30:22.569] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[31May2025 00:30:23.109] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[31May2025 00:30:23.110] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[31May2025 00:30:32.392] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[31May2025 00:30:33.390] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[31May2025 00:30:33.392] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
