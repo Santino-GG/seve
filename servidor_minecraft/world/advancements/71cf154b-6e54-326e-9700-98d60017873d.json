@@ -5010,11 +5010,29 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-05-31 00:58:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-05-30 23:56:19 +0000"
     },
     "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "stonecutter": "2025-05-31 00:59:30 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "stonecutter": "2025-05-31 00:59:30 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {

@@ -402,3 +402,27 @@
 ]
 [31May2025 00:50:28.778] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
 [31May2025 00:50:52.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC moved wrongly!
+[31May2025 00:55:43.533] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[31May2025 00:55:43.534] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 107
+}
+[31May2025 00:55:43.534] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[31May2025 00:55:43.534] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "pq#DJ][K?a6;3oq_464=WDw2Z"
+]
+[31May2025 00:59:30.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC has made the advancement [Let's Get To Work]
+[31May2025 01:01:56.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC moved wrongly!
+[31May2025 01:02:44.710] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[31May2025 01:02:44.711] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 120
+}
+[31May2025 01:02:44.711] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[31May2025 01:02:44.711] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "uGI*n/0bVvF5.pU464zg/"
+]
+[31May2025 01:03:15.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved too quickly! 0.5078941367297602,-10.188594643186804,0.13625787254325417
+[31May2025 01:03:19.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Baby Skeleton
