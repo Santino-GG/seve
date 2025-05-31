@@ -6629,6 +6629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-05-31 02:47:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/light_gray_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-30 23:57:10 +0000"
@@ -6704,6 +6710,12 @@
   "refurbished_furniture:recipes/decorations/blue_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-30 23:57:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-05-31 02:47:25 +0000"
     },
     "done": true
   },
@@ -6896,6 +6908,12 @@
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_yellow_wool": "2025-05-30 23:30:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-05-31 02:47:25 +0000"
     },
     "done": true
   },
@@ -7286,6 +7304,12 @@
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-05-30 23:57:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-05-31 02:47:25 +0000"
     },
     "done": true
   },

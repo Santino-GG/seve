@@ -14109,3 +14109,91 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [31May2025 02:46:27.253] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
 [31May2025 02:46:27.254] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
 [31May2025 02:46:27.839] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[31May2025 02:47:25.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [Hunt and Gather]
+[31May2025 02:47:32.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was doomed to fall by Beast Patient
+[31May2025 02:47:34.723] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748659654723
+[31May2025 02:47:58.935] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_04
+[31May2025 02:47:59.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Dread Hound
+[31May2025 02:48:01.335] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748659681335
+[31May2025 02:48:02.102] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[31May2025 02:48:02.103] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 100
+}
+[31May2025 02:48:02.103] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[31May2025 02:48:02.103] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Dq5>LP.yH&>1eh464%lz"
+]
+[31May2025 02:48:13.282] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/taiga/taiga_woodworker
+[31May2025 02:48:13.298] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house_taiga
+[31May2025 02:48:13.304] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/taiga/taiga_florist
+[31May2025 02:49:16.737] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:lich_prison/lich_prison
+[31May2025 02:49:28.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by YOUNGDINO07
+[31May2025 02:49:30.267] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748659770264
+[31May2025 02:51:18.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 02:51:18.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 02:51:54.962] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_1 is being run through DFU (hash 1743dc95d02dad52d37e440c2939326a0b355e55b3fd8b4ec8abc5d00123ad10), this will cause launch time delays
+[31May2025 02:52:09.141] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_red_mushroom_stem_01
+[31May2025 02:52:53.364] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[31May2025 02:52:54.752] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:large_graveyard/crossroad_01
+[31May2025 02:52:54.761] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/street_pool/corner_06 is being run through DFU (hash d940eb08eec088d68ae4f91ccb3f70a3401655a74d5cc7dfc68541300207b363), this will cause launch time delays
+[31May2025 02:52:54.827] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/street_pool/street_end_02 is being run through DFU (hash 2afb57d72f4158834d9633b60d7ebb56ca5e00c9773af51d93be895679cf7f0e), this will cause launch time delays
+[31May2025 02:52:54.834] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/street_pool/street_end_03 is being run through DFU (hash ce3f1cd2df15892ebcba8430006d10db49f6a60ba2a791857686dea9634bcded), this will cause launch time delays
+[31May2025 02:52:54.841] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/street_pool/corner_02 is being run through DFU (hash dfcf27e4fd7ca71043c8eee4a1fd6d26f8f82d6a7a848c6366240d6812a171d1), this will cause launch time delays
+[31May2025 02:52:54.862] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/street_pool/corner_01 is being run through DFU (hash 3d843969a0906672f340285266b13c388ebb8eb033571594e0532ac8c42e3525), this will cause launch time delays
+[31May2025 02:52:54.878] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/street_pool/corner_04 is being run through DFU (hash fb0fe09a806dd98846db81c3667f90a44eff4177412391fe77c96c8aa48f0fb6), this will cause launch time delays
+[31May2025 02:52:54.882] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/street_pool/corner_05 is being run through DFU (hash ee6b998cf7dab416a0536eb85ecacc5db9e7c333f4b5ea993c605ef671bd911c), this will cause launch time delays
+[31May2025 02:52:54.887] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/street_pool/street_05 is being run through DFU (hash fd4b819d6a6652d251ef684e90a97ff7749797104e1adf845dac0a1d8b7d24c8), this will cause launch time delays
+[31May2025 02:52:54.896] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/branch_pool/branch_graves_04 is being run through DFU (hash 47f5b177ba9edfd315f2312376ad477ce55aec2764c2c432361f17c9af65482b), this will cause launch time delays
+[31May2025 02:52:54.897] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/branch_pool/branch_nature_04 is being run through DFU (hash f0ce3f6bcef73bbc05d648740f3c8f57979393c225cee759630206e6a406eb01), this will cause launch time delays
+[31May2025 02:52:54.900] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/branch_pool/branch_large_grave_02 is being run through DFU (hash dab72fae4b3125196dce62e94d2c39b82d43f6373139da825753a8ebafb7ba7f), this will cause launch time delays
+[31May2025 02:52:54.902] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/branch_pool/branch_looted_graves_02 is being run through DFU (hash ec80a84a4709bb623a52f2a5827f4a0de9c2353ba6405542371f1d1011e0537d), this will cause launch time delays
+[31May2025 02:52:54.906] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/street_pool/street_02 is being run through DFU (hash 5a644c97c099980e040f6cd675c09ff57570824b4055214ed2c5e5e46cefcec1), this will cause launch time delays
+[31May2025 02:52:55.019] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/feature_pool/walled_street_03 is being run through DFU (hash 76b93c190c59c2fd478c4b4bdeba2b11e9b3a9cd2a8ed16810e3a063fbd1820d), this will cause launch time delays
+[31May2025 02:52:55.127] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/branch_pool/branch_boulder_03 is being run through DFU (hash 7b72e5a9b11f77e3ed1b5b125c9643168f38c49fe1d89ffc63d42d83e23a6aa2), this will cause launch time delays
+[31May2025 02:52:55.155] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/branch_pool/branch_nature_01 is being run through DFU (hash 8e312011d5121e21784f94fd7d4a77851a2632754876e3d10d55a433e0102bd9), this will cause launch time delays
+[31May2025 02:52:55.158] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/branch_pool/branch_nature_03 is being run through DFU (hash eef74fdb6ed3f102cdeae324f8f1d20bcb5b335c9b81752c8d435dbef719830b), this will cause launch time delays
+[31May2025 02:52:55.161] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/branch_pool/branch_nature_05 is being run through DFU (hash 55439e959c9dbf8ed0bf75a1ea066fc0fda1d1d6c6c364d19f07f6b02f60d1ac), this will cause launch time delays
+[31May2025 02:52:55.166] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/branch_pool/branch_willow is being run through DFU (hash e37132c533c75c62ac069922cd541fddd6dafe0359bfd167b456a752a8247799), this will cause launch time delays
+[31May2025 02:52:55.191] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/branch_pool/branch_boulder_01 is being run through DFU (hash 41cd73f08f6ff2af8d0209e9e0b4181cd41891d577cdcc87174e0157bc4d1372), this will cause launch time delays
+[31May2025 02:52:55.193] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/branch_pool/branch_large_grave_01 is being run through DFU (hash 783273d563d0852858b392cee8a8e5cc6332ad443638066773e67252bb091426), this will cause launch time delays
+[31May2025 02:52:55.208] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/branch_pool/branch_lost_grave is being run through DFU (hash ea74a3acb65c029a7f2b9839cc08a49a86e8b22b8887873a37d161af02cb02a4), this will cause launch time delays
+[31May2025 02:52:55.225] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/branch_pool/branch_graves_05 is being run through DFU (hash b8ee6b4df6d54129ced6ea118a499adf20dee9cab2cdd49686d290f482fd07d8), this will cause launch time delays
+[31May2025 02:52:55.240] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/branch_pool/branch_graves_03 is being run through DFU (hash 2b0d0f4d4304268253e4cacaaf92a514ad3ece11577120c842737ef9128fd2a1), this will cause launch time delays
+[31May2025 02:52:55.251] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/branch_pool/branch_nature_02 is being run through DFU (hash ef3ccc1c58f481c6b728aa77dc836c02bd55d624e3029838fc64ee09bc1ae6bc), this will cause launch time delays
+[31May2025 02:52:55.253] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/branch_pool/branch_graves_01 is being run through DFU (hash 50f4c0099f4ece6bf2430af10f52bbdc51b22f9c220574ad25aea2a63d73dc19), this will cause launch time delays
+[31May2025 02:52:55.257] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/branch_pool/branch_spider_den is being run through DFU (hash 0e9d54e662e035dce22e85ae180c923474dedfba394bf1f766282417d36bcece), this will cause launch time delays
+[31May2025 02:52:55.284] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/branch_pool/branch_boulder_02 is being run through DFU (hash 263bbe5733f51ee0c01ae68651313c80b3005440e766d849cadd12903fc9dda1), this will cause launch time delays
+[31May2025 02:52:55.286] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/branch_pool/branch_looted_graves_01 is being run through DFU (hash 3d5530a83fc6ae8d0fbdc075fa7414da02bbebf17ea9d984d31b8b0954cdb7bb), this will cause launch time delays
+[31May2025 02:52:55.287] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/branch_pool/branch_graves_02 is being run through DFU (hash 21f282879804f9dc3bde7feff106abaf28e65400fe803194b3f6ff6917d59e54), this will cause launch time delays
+[31May2025 02:52:55.296] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/feature_pool/walled_street_01 is being run through DFU (hash 8b8bd1ec895d8a5f757b19cea66ad5bbaa2618d3d14f8983a1c67cb2964ec840), this will cause launch time delays
+[31May2025 02:52:55.372] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/feature_pool/walled_street_02 is being run through DFU (hash e7d0d2daf12265e8473669b969d1c63f1cf54b4235c07b65ad8d096baca37d21), this will cause launch time delays
+[31May2025 02:52:55.457] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/street_pool/street_07 is being run through DFU (hash 78211f7e9a572986b9abbcee4793dc7d0749d56492297f2d9b032ea71e5c8247), this will cause launch time delays
+[31May2025 02:52:55.461] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:large_graveyard/street_pool/street_08 is being run through DFU (hash dd8872f1f621b09631a12837bb95bc43aaa62ce87dc7e3d2c6760183bbc4f122), this will cause launch time delays
+[31May2025 02:53:02.819] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[31May2025 02:53:53.881] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[31May2025 02:53:53.882] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[31May2025 02:53:53.917] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[31May2025 02:53:57.817] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_03
+[31May2025 02:54:21.940] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[31May2025 02:54:21.940] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[31May2025 02:54:21.954] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[31May2025 02:54:21.954] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[31May2025 02:54:21.954] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[31May2025 02:54:21.954] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[31May2025 02:54:21.955] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[31May2025 02:54:23.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Hollow Soldier
+[31May2025 02:54:25.500] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748660065461
+[31May2025 02:55:02.523] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[31May2025 02:55:02.523] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 70
+}
+[31May2025 02:55:02.523] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[31May2025 02:55:02.524] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Z*uZDHJ!c5I( 464T&gO"
+]
+[31May2025 02:56:18.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 02:56:18.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
