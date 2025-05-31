@@ -6842,6 +6842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-05-31 01:40:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-30 23:57:50 +0000"
@@ -6851,6 +6857,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
     "criteria": {
       "has_yellow_dye": "2025-05-30 23:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-05-31 01:40:18 +0000"
     },
     "done": true
   },
@@ -7043,6 +7055,18 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2025-05-30 23:57:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-05-31 01:40:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-05-31 01:40:20 +0000"
     },
     "done": true
   },
