@@ -67,6 +67,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-05-31 00:19:22 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-05-31 00:01:12 +0000",
       "minecraft:cherry_grove": "2025-05-29 22:33:39 +0000",
       "minecraft:sunflower_plains": "2025-05-29 22:33:20 +0000",
       "minecraft:birch_forest": "2025-05-27 23:46:34 +0000",
@@ -76,11 +78,17 @@
       "minecraft:sparse_jungle": "2025-05-26 23:49:27 +0000",
       "minecraft:river": "2025-05-26 23:26:49 +0000",
       "minecraft:lukewarm_ocean": "2025-05-27 23:10:40 +0000",
+      "minecraft:stony_shore": "2025-05-31 00:09:45 +0000",
       "minecraft:dripstone_caves": "2025-05-29 22:05:16 +0000",
+      "minecraft:grove": "2025-05-31 00:19:04 +0000",
+      "minecraft:swamp": "2025-05-31 00:06:30 +0000",
+      "minecraft:cold_ocean": "2025-05-31 00:00:58 +0000",
       "minecraft:forest": "2025-05-26 23:05:33 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-31 00:01:33 +0000",
       "minecraft:jungle": "2025-05-26 23:49:52 +0000",
       "minecraft:ocean": "2025-05-27 23:46:14 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-26 23:28:11 +0000",
+      "minecraft:deep_dark": "2025-05-30 23:55:22 +0000",
       "minecraft:meadow": "2025-05-27 23:39:49 +0000",
       "minecraft:savanna": "2025-05-27 23:13:45 +0000",
       "minecraft:plains": "2025-05-26 23:48:06 +0000"
@@ -4932,15 +4940,111 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-05-30 23:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-30 23:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-05-30 23:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-30 23:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-05-30 23:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-05-30 23:56:19 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flute": {
     "criteria": {
       "has_bamboo": "2025-05-30 23:42:21 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2025-05-30 23:56:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2025-05-30 23:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-05-30 23:56:19 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "has_bamboo": "2025-05-30 23:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-05-30 23:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-05-30 23:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-30 23:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-30 23:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-30 23:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-30 23:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-30 23:56:19 +0000"
     },
     "done": true
   },
