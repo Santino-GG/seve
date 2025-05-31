@@ -69,6 +69,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-05-24 01:42:47 +0000",
       "minecraft:taiga": "2025-05-29 23:42:29 +0000",
+      "minecraft:deep_ocean": "2025-05-31 02:39:43 +0000",
       "minecraft:cherry_grove": "2025-05-22 01:51:28 +0000",
       "minecraft:sunflower_plains": "2025-05-22 01:58:24 +0000",
       "minecraft:birch_forest": "2025-05-25 01:43:57 +0000",
@@ -80,8 +81,10 @@
       "minecraft:lukewarm_ocean": "2025-05-24 00:08:02 +0000",
       "minecraft:stony_shore": "2025-05-24 00:07:55 +0000",
       "minecraft:grove": "2025-05-30 23:36:58 +0000",
+      "minecraft:cold_ocean": "2025-05-31 02:40:05 +0000",
       "minecraft:forest": "2025-05-03 02:07:38 +0000",
       "minecraft:lush_caves": "2025-05-24 03:00:49 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-31 02:40:30 +0000",
       "minecraft:jungle": "2025-05-06 21:05:56 +0000",
       "minecraft:ocean": "2025-05-24 00:33:51 +0000",
       "minecraft:flower_forest": "2025-05-24 00:47:26 +0000",
