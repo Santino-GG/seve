@@ -69,6 +69,7 @@
     "criteria": {
       "minecraft:taiga": "2025-05-26 19:12:55 +0000",
       "minecraft:deep_ocean": "2025-05-31 00:30:34 +0000",
+      "minecraft:cherry_grove": "2025-05-31 01:56:34 +0000",
       "minecraft:birch_forest": "2025-05-26 18:46:51 +0000",
       "minecraft:bamboo_jungle": "2025-05-31 00:26:30 +0000",
       "minecraft:beach": "2025-05-08 00:58:56 +0000",
@@ -6500,6 +6501,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-31 01:54:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
       "has_needed_dye": "2025-05-30 23:55:58 +0000"
@@ -6788,6 +6795,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-31 01:52:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-30 23:57:47 +0000"
@@ -6860,6 +6873,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-31 01:54:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2025-05-31 01:40:18 +0000"
@@ -6926,6 +6945,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-05-31 01:54:52 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/yellow_grill_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-30 23:55:58 +0000"
@@ -6959,6 +6984,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_basin": {
     "criteria": {
       "has_blue_dye": "2025-05-30 23:57:47 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/woodworking_table": {
+    "criteria": {
+      "has_leaves": "2025-05-31 01:52:38 +0000"
     },
     "done": true
   },
@@ -7001,6 +7032,18 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
     "criteria": {
       "has_yellow_dye": "2025-05-30 23:55:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
+    "criteria": {
+      "has_birch_leaves": "2025-05-31 01:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-31 01:52:39 +0000"
     },
     "done": true
   },
@@ -7049,6 +7092,12 @@
   "refurbished_furniture:recipes/decorations/light_gray_toilet": {
     "criteria": {
       "has_dye": "2025-05-30 23:57:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-31 01:52:39 +0000"
     },
     "done": true
   },
@@ -7109,6 +7158,12 @@
   "refurbished_furniture:recipes/decorations/light_gray_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-30 23:57:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_hedge": {
+    "criteria": {
+      "has_leaves": "2025-05-31 01:52:38 +0000"
     },
     "done": true
   },
