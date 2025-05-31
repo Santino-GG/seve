@@ -67,6 +67,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-05-31 03:05:22 +0000",
       "minecraft:taiga": "2025-05-26 19:12:55 +0000",
       "minecraft:deep_ocean": "2025-05-31 00:30:34 +0000",
       "minecraft:cherry_grove": "2025-05-31 01:56:34 +0000",
@@ -84,6 +85,7 @@
       "minecraft:deep_cold_ocean": "2025-05-31 00:28:26 +0000",
       "minecraft:jungle": "2025-05-24 01:26:53 +0000",
       "minecraft:ocean": "2025-05-26 18:41:23 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-31 02:59:22 +0000",
       "minecraft:flower_forest": "2025-05-31 00:36:43 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-26 18:46:59 +0000",
       "minecraft:savanna": "2025-05-31 00:25:05 +0000",
@@ -6455,6 +6457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-31 02:59:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2025-05-30 23:57:47 +0000"
@@ -6737,6 +6745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-31 02:59:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-30 23:57:47 +0000"
@@ -6857,9 +6871,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-31 03:05:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_toilet": {
     "criteria": {
       "has_dye": "2025-05-30 23:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-31 02:59:57 +0000"
     },
     "done": true
   },
@@ -7007,6 +7033,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-05-31 03:00:40 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_cherry": {
     "criteria": {
       "has_item": "2025-05-31 02:15:32 +0000"
@@ -7028,6 +7060,12 @@
   "refurbished_furniture:recipes/decorations/yellow_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-30 23:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-05-31 02:59:56 +0000"
     },
     "done": true
   },
@@ -7073,6 +7111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-31 02:59:57 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
       "inscription_table": "2025-05-31 01:54:52 +0000"
@@ -7088,6 +7132,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_bath": {
     "criteria": {
       "has_red_dye": "2025-05-30 23:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-31 02:59:57 +0000"
     },
     "done": true
   },
@@ -7187,6 +7237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-05-31 03:00:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-05-31 01:52:39 +0000"
@@ -7208,6 +7264,12 @@
   "refurbished_furniture:recipes/decorations/blue_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-30 23:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-31 02:59:57 +0000"
     },
     "done": true
   },
