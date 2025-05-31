@@ -6511,6 +6511,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-31 03:11:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-30 23:57:50 +0000"
@@ -7114,6 +7120,12 @@
   "minecraft:recipes/decorations/mud_brick_wall": {
     "criteria": {
       "has_mud_bricks": "2025-05-31 02:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-31 03:06:49 +0000"
     },
     "done": true
   },

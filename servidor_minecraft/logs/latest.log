@@ -2431,3 +2431,32 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
   "<partial numeric data>",
   "[-128, -48, 75, -82, -42, -107, 99, -55, -112, -69, 25]"
 ]
+[31May2025 03:08:01.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was shot by Illusioner
+[31May2025 03:08:04.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was shot by Illusioner
+[31May2025 03:08:09.264] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[31May2025 03:08:54.496] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[31May2025 03:08:54.496] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1504073
+}
+[31May2025 03:08:54.496] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[31May2025 03:08:54.496] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+|B19SH4NB464kHg-"
+]
+[31May2025 03:09:29.561] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/208563, l='ServerLevel[world]', x=-4404.33, y=60.00, z=117.42] died, message: 'Unemployed was shot by Illusioner'
+[31May2025 03:11:03.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [Take Aim]
+[31May2025 03:13:50.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was shot by Illusioner
+[31May2025 03:15:13.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[31May2025 03:15:26.643] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/214341, l='ServerLevel[world]', x=200.81, y=-256.00, z=180.26] died, message: 'Unemployed was killed'
+[31May2025 03:15:59.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> XDXDXDXDDXDXDDXDXDxxxxdxdxdxdxdxdxdxdxdxdxDXDXDXDXD
+[31May2025 03:16:48.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[31May2025 03:16:56.932] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.87.163.24:58257] logged in with entity id 215165 at (-1463.9340642515067, 121.0, 2428.167870869594)
+[31May2025 03:16:56.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[31May2025 03:16:56.962] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[31May2025 03:16:57.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[31May2025 03:17:00.672] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[31May2025 03:17:00.672] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[31May2025 03:17:10.789] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[31May2025 03:17:11.791] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[31May2025 03:17:11.791] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
